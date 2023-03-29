@@ -25,13 +25,14 @@ layout: sitepage
 * 机器人控制 (Robotic Control)
 * 智能交通系统 (Intelligent Transportation Systems)
 * 网联汽车与无人驾驶 (Connected Vehicles & Autonomous Driving) 
-* 智能麻醉机器人(Intelligent Anesthesia Robot)
+* 智能麻醉机器人 (Intelligent Anesthesia Robot)
 * 强化学习 (Reinforcement Learning) 
 * 自适应动态规划（Adaptive Dynamic Programming）
-* 输出调节(Output Regulation)
-* 优化控制(Optimal Control)
-* 协同控制(Cooperative Control) 
-* 采样系统理论(Sampled-data System Theory)
+* 输出调节 (Output Regulation)
+* 优化控制 (Optimal Control)
+* 协同控制 (Cooperative Control) 
+* 采样系统理论 (Sampled-data System Theory)
+* 信息物理系统 (Cyber Physical Systems)
 
 # 奖励与荣誉
 * Engineering Research Initiation Award, 美国自然科学基金委，2022
