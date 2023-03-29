@@ -32,10 +32,10 @@ layout: sitepage
 * Meritorious Winner, 国际数学建模竞赛，2010
 
 # 工作经历
-* 教授，博士生导师,  <a href="http://www.neu.edu.cn">东北大学 Oct 2022 - Present
-* 助理教授，博士生导师, <a href="http://www.fit.edu">美国佛罗里达理工学院, Aug 2020 - Aug 2022
-* 客座教授, <a href="http://www.merl.com">美国三菱电气研究实验室, May 2018 - Aug 2018
-* 助理教授, <a href="http://www.georgiasouthern.com">美国南佐治亚大学, Aug 2017 - Jul 2020
+* 教授，博士生导师, Oct 2022 - Present, <a href="http://www.neu.edu.cn">东北大学
+* 助理教授，博士生导师,  Aug 2020 - Aug 2022, <a href="http://www.fit.edu">美国佛罗里达理工学院(Florida Institute of Technology)
+* 客座教授, May 2018 - Aug 2018, <a href="http://www.merl.com">美国三菱电气研究实验室(Mitsubishi Electric Research Laboratories)
+* 助理教授, Aug 2017 - Jul 2020, <a href="http://www.georgiasouthern.com">美国南佐治亚大学(Georgia Southern University)
 
 # 教育经历
 * Ph.D., Electrical Engineering, <a href="http://www.nyu.edu">New York University</a>, May 2014. (Advisor:<a href="http://engineering.nyu.edu/people/zhong-ping-jiang">Prof. Zhong-Ping Jiang</a>)
