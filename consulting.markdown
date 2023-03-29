@@ -1,7 +1,7 @@
 ---
 layout: sitepage
 title: 学术兼职
-permalink: /consulting/
+permalink: /学术兼职/
 ---
 
 # Findop Solutions LLC #
