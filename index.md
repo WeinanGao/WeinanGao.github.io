@@ -25,11 +25,9 @@ free to reach out to me if you are interested in any part of my research work.
 * Follow me on:
 [Linkedin](http://www.linkedin.com/in/yujiang26),
 [Google Scholar](http://scholar.google.com/citations?user=QYanTRsAAAAJ),
-[Facebook](https://www.facebook.com/yu.jiang.26/),
-[MATLAB Central](http://www.mathworks.com/matlabcentral/profile/authors/5012545-yu),
 [GitHub](https://github.com/yu-jiang/),
-[Zhihu 知乎](https://www.zhihu.com/people/yujiangnyu)
-* Email (best way to reach out to me): yu.jiang@nyu.edu
+
+* Email: gaown@mail.neu.edu.cn
 
 # Awards
 * Excellent Reviewer, for the Journal of Guidance, Control, and Dynamics (JGCD), between Oct. 1, 2015 – Sept. 30, 2016.
