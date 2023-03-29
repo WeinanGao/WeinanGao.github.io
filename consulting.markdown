@@ -1,6 +1,6 @@
 ---
 layout: sitepage
-title: Consulting
+title: 学术兼职
 permalink: /consulting/
 ---
 
