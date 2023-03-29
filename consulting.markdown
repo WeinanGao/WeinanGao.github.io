@@ -1,7 +1,7 @@
 ---
 layout: sitepage
 title: 学术兼职
-permalink: /学术兼职/
+permalink: /sercive/
 ---
 
 # Findop Solutions LLC #
