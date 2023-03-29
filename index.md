@@ -19,25 +19,23 @@ layout: sitepage
 * Email: gaown@mail.neu.edu.cn
 
 # 奖励与荣誉
-* Engineering Research Initiation Award, US-NSF 2022
+* Engineering Research Initiation Award, 美国自然科学基金委，2022
 * Outstanding Reviewer Award, IET Control Theory and Applications, 2019
-* David Goodman Research Award, Dept. ECE, New York University, 2019
-* Faculty Development Summer Award, Georgia Southern University, 2019
+* David Goodman Research Award, Dept. ECE, 美国纽约大学，2019
+* Faculty Development Summer Award, 美国南佐治亚大学，2019
 * Best Paper Award in Control, IEEE RCAR, 2018
-* Faculty Development Travel Award, Georgia Southern University, 2017, 2019
-* Undergraduate Research Award, Mentor, Georgia Southern University, 2017-2018
+* Faculty Development Travel Award, 美国南佐治亚大学，2017, 2019
+* Undergraduate Research Award, Mentor, 美国南佐治亚大学，2017-2018
 * Best Paper Award, IEEE UEMCON, 2017
-* Student Travel Award, American Control Conference, 2015, 2016, 2017 
-* Provost Fellowship, at New York University, 2013 
-* China National Graduate Scholarship, 2012
-* China National Undergraduate Scholarship, 2010
-* Meritorious Winner, in the International Mathematical Contest in Modeling, 2010
+* Student Travel Award, 美国控制会议，2015, 2016, 2017 
+* Provost Fellowship, 美国纽约大学，2013 
+* Meritorious Winner, 国际数学建模竞赛，2010
 
 # 工作经历
-* Senior Controls Engineer / Controls Researcher,  <a href="http://www.clearmotion.com">ClearMotion, Inc.</a>, Woburn, MA July 2017 - Present
-* Controls Systems Engineer / Software Engineer, <a href="http://www.mathworks.com">The MathWorks, Inc.</a>, Natick, MA, July 2015 - June 2017
-* Application Support Engineer, <a href="http://www.mathworks.com">The MathWorks, Inc.</a>, Natick, MA, June 2014 - July 2015
-* Research Intern, <a href="http://www.merl.com">Mitsubishi Electric Research Labs (MERL)</a>, Cambridge, MA, June 2013 - August 2013
+* 教授，博士生导师,  <a href="http://www.neu.edu.cn">东北大学 Oct 2022 - Present
+* 助理教授，博士生导师, <a href="http://www.fit.edu">美国佛罗里达理工学院, Aug 2020 - Aug 2022
+* 客座教授, <a href="http://www.merl.com">美国三菱电气研究实验室, May 2018 - Aug 2018
+* 助理教授, <a href="http://www.georgiasouthern.com">美国南佐治亚大学, Aug 2017 - Jul 2020
 
 # 教育经历
 * Ph.D., Electrical Engineering, <a href="http://www.nyu.edu">New York University</a>, May 2014. (Advisor:<a href="http://engineering.nyu.edu/people/zhong-ping-jiang">Prof. Zhong-Ping Jiang</a>)
