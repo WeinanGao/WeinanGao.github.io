@@ -17,3 +17,22 @@ layout: sitepage
 [GitHub](https://github.com/WeinanGao/),
 
 * Email: gaown@mail.neu.edu.cn
+
+# 奖励与荣誉
+* Engineering Research Initiation Award, 美国自然科学基金委，2022
+* Outstanding Reviewer Award, IET Control Theory and Applications, 2019
+* David Goodman Research Award, Dept. ECE, 美国纽约大学，2019
+* Faculty Development Summer Award, 美国南佐治亚大学，2019
+* Best Paper Award in Control, IEEE RCAR, 2018
+* Faculty Development Travel Award, 美国南佐治亚大学，2017, 2019
+* Undergraduate Research Award, Mentor, 美国南佐治亚大学，2017-2018
+* Best Paper Award, IEEE UEMCON, 2017
+* Student Travel Award, 美国控制会议，2015, 2016, 2017 
+* Provost Fellowship, 美国纽约大学，2013 
+* Meritorious Winner, 国际数学建模竞赛，2010
+
+# 工作经历
+* 教授，博士生导师, Oct 2022 - Present, <a href="http://www.neu.edu.cn">东北大学 
+* 助理教授，博士生导师, Aug 2020 - Aug 2022, <a href="http://www.fit.edu">美国佛罗里达理工学院 (Florida Institute of Technology)
+* 客座教授, May 2018 - Aug 2018, <a href="http://www.merl.com">美国三菱电气研究实验室 (Mitsubishi Electric Research Laboratories)
+* 助理教授, Aug 2017 - Jul 2020, <a href="http://www.georgiasouthern.com">美国南佐治亚大学 (Georgia Southern University)
