@@ -17,3 +17,14 @@ permalink: /service/
 * Editorial Board Member, Neural Computing and Applications, Springer, 2018-Now (Impact Factor: 5.606)
 * Editorial Board Member, International Journal of Systems, Control and Communications, 2020-Now
 * Editorial Board Member, International Journal of Security, 2021-Now
+
+# 学术会议程序委员会 #
+
+* Program Committee Member, American Control Conference, 2022, 2023
+* Web Chair, IEEE INFOCOM MobiSec Workshop, 2022, 2021, 2018
+* Invited Session Chair, International Conference on Data-Driven Optimizations of Complex Systems, 2022
+* Technical Committee Member, International Conference on Robot Systems and Applications (​ICRSA), 2022 
+* Technical Committee Member, International Workshop on Intelligent Systems and Internet of Things (ISIoT), at DCOSS, 2022
+* Organizer of Invited Session "Data-Driven Intelligent Control and Fault Detection" at CCDC, 2022
+* Associate Editor,  IFAC International Workshop on Adaptation and Learning in Control and Signal (ALCOS), 2022 
+* Organizer of Invited Session "Adaptive Control, Learning Systems and Their Applications" at MICNON 2021 
