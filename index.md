@@ -7,45 +7,39 @@ layout: sitepage
 
 [comment]: # (Insert my resume below)
 
-# About Me
-Hello. My name is Yu Jiang. I am current a Senior Controls Engineer / Controls Researcher at ClearMotion. Prior to joining the company, I worked at MathWorks as a Software Engineer of Simulink Control Design Toolbox.  [[My CV in PDF]]({{site.url}}/YuJiangCV.pdf) 
+# 个人简介
+1990年3月生于沈阳。东北大学流程工业综合自动化国家重点实验室教授、博士生导师、IEEE高级会员、国家级青年人才计划入选者、沈阳市高层次人才、美国波士顿三菱电气研究实验室客座教授。2011年和2013年分获东北大学学士和硕士学位，2017年获美国纽约大学博士学位。曾任美国佛罗里达理工学院助理教授、博士生导师（该学院与美国加州理工学院等曾共同被泰晤士报高等教育评为“世界20强小型大学”）和美国南佐治亚大学助理教授。长期从事人工智能、自适应动态规划、优化控制和输出调节等基础理论研究，并以智能网联汽车、无人驾驶、电力系统等为具体对象进行基础应用研究。围绕上述领域在IEEE Trans. Automatic Control、Automatica等国际期刊共发表论文40余篇，包括3篇ESI高被引论文。担任自动化学报（英文版）、IEEE Trans. Neural Networks and Learning Systems、Neruocomputing、Control Engineering Practice等控制与人工智能领域国际期刊编委，2022-2023年美国控制会议（ACC）程序委员会委员、2018年IEEE INFOCOM-Mobisec研讨会网络主席、IEEE非线性系统与控制委员会委员、IEEE智能城市委员会委员、IFAC自适应与学习系统委员会委员、中国工业人工智能专委会委员。获IEEE实时计算与机器人国际会议控制最佳论文奖、美国纽约大学David Goodman研究奖、中国控制与决策会议张嗣瀛优秀青年论文提名奖。曾作为研究生导师指导来自亚洲、北美和非洲的博士硕士研究生7名，指导学生曾获该系“研究生卓越研究奖”，在美国英特尔等公司工作。
 
-I lived in the New York City for five years and
-obtained a PhD degree in Electrical Engineering from New York University in May 2014.
-During my PhD, I made some contributions to Adaptive Dynamic Programming (ADP)
-for nonlinear control design. The bulk of my research work has been
-included in the book "Robust Adaptive Dynamic Programming", written by me and my
-PhD Thesis advisor.
-
-I have broad interests in numerical methods in differential equations,
-controls, and optimization. I am also developing my hobby in robotics. Please feel
-free to reach out to me if you are interested in any part of my research work.
-
-# Contact
+# 联系方式
 * Follow me on:
-[Linkedin](http://www.linkedin.com/in/yujiang26),
-[Google Scholar](http://scholar.google.com/citations?user=QYanTRsAAAAJ),
-[GitHub](https://github.com/yu-jiang/),
+[ORCID](https://orcid.org/0000-0001-7921-018X),
+[Google Scholar](https://scholar.google.com/citations?user=XNYwzswAAAAJ&hl),
+[GitHub](https://github.com/WeinanGao/),
 
 * Email: gaown@mail.neu.edu.cn
 
-# Awards
-* Excellent Reviewer, for the Journal of Guidance, Control, and Dynamics (JGCD), between Oct. 1, 2015 – Sept. 30, 2016.
-* Alexander Hessel Award, for the Best Ph.D. Dissertation in Electrical Engineering, ECE Dept at NYU, 2015
-* Shimemura Young Author Prize, at the 9th Asian Control Conference, Istanbul, Turkey, June 2013
-* Richard Rosenthal Award, for the outstanding performance on the electrical engineering PhD Qualifying Examination, ECE Dept at NYU, 2010 (Awarded to the Top 1 candidate)
-* Huawei Scholarship for outstanding students, South China University of Technology, 2008
-* National First Place, in the Chinese Graduate Mathematical Contest in Modeling, 2007
-* National First Place, in the Chinese Undergraduate Mathematical Contest in Modeling, 2005
+# 奖励与荣誉
+* Engineering Research Initiation Award, US-NSF 2022
+* Outstanding Reviewer Award, IET Control Theory and Applications, 2019
+* David Goodman Research Award, Dept. ECE, New York University, 2019
+* Faculty Development Summer Award, Georgia Southern University, 2019
+* Best Paper Award in Control, IEEE RCAR, 2018
+* Faculty Development Travel Award, Georgia Southern University, 2017, 2019
+* Undergraduate Research Award, Mentor, Georgia Southern University, 2017-2018
+* Best Paper Award, IEEE UEMCON, 2017
+* Student Travel Award, American Control Conference, 2015, 2016, 2017 
+* Provost Fellowship, at New York University, 2013 
+* China National Graduate Scholarship, 2012
+* China National Undergraduate Scholarship, 2010
+* Meritorious Winner, in the International Mathematical Contest in Modeling, 2010
 
-
-# Experiences
+# 工作经历
 * Senior Controls Engineer / Controls Researcher,  <a href="http://www.clearmotion.com">ClearMotion, Inc.</a>, Woburn, MA July 2017 - Present
 * Controls Systems Engineer / Software Engineer, <a href="http://www.mathworks.com">The MathWorks, Inc.</a>, Natick, MA, July 2015 - June 2017
 * Application Support Engineer, <a href="http://www.mathworks.com">The MathWorks, Inc.</a>, Natick, MA, June 2014 - July 2015
 * Research Intern, <a href="http://www.merl.com">Mitsubishi Electric Research Labs (MERL)</a>, Cambridge, MA, June 2013 - August 2013
 
-# Education
+# 教育经历
 * Ph.D., Electrical Engineering, <a href="http://www.nyu.edu">New York University</a>, May 2014. (Advisor:<a href="http://engineering.nyu.edu/people/zhong-ping-jiang">Prof. Zhong-Ping Jiang</a>)
 * M.S., Automation Science and Engineering, <a href="http://www.scut.edu.cn/">South China University of Technology</a>, June 2009 (Advisor: <a href="http://www.mae.cuhk.edu.hk/%7Ejhuang/">Prof. Jie Huang</a>)
 * B.S., Mathematics and Applied Mathematics, <a href="http://www.sysu.edu.cn">Sun Yat-sen (Zhong-Shan University)</a>, June 2006
