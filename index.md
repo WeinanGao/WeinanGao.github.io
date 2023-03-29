@@ -32,12 +32,12 @@ layout: sitepage
 * Meritorious Winner, 国际数学建模竞赛，2010
 
 # 工作经历
-* 教授，博士生导师, Oct 2022 - Present, <a href="http://www.neu.edu.cn">东北大学
-* 助理教授，博士生导师,  Aug 2020 - Aug 2022, <a href="http://www.fit.edu">美国佛罗里达理工学院(Florida Institute of Technology)
-* 客座教授, May 2018 - Aug 2018, <a href="http://www.merl.com">美国三菱电气研究实验室(Mitsubishi Electric Research Laboratories)
-* 助理教授, Aug 2017 - Jul 2020, <a href="http://www.georgiasouthern.com">美国南佐治亚大学(Georgia Southern University)
+* 教授，博士生导师, Oct 2022 - Present, <a href="http://www.neu.edu.cn">东北大学 
+* 助理教授，博士生导师, Aug 2020 - Aug 2022, <a href="http://www.fit.edu">美国佛罗里达理工学院 (Florida Institute of Technology)
+* 客座教授, May 2018 - Aug 2018, <a href="http://www.merl.com">美国三菱电气研究实验室 (Mitsubishi Electric Research Laboratories)
+* 助理教授, Aug 2017 - Jul 2020, <a href="http://www.georgiasouthern.com">美国南佐治亚大学 (Georgia Southern University)
 
 # 教育经历
-* Ph.D., Electrical Engineering, <a href="http://www.nyu.edu">New York University</a>, May 2014. (Advisor:<a href="http://engineering.nyu.edu/people/zhong-ping-jiang">Prof. Zhong-Ping Jiang</a>)
-* M.S., Automation Science and Engineering, <a href="http://www.scut.edu.cn/">South China University of Technology</a>, June 2009 (Advisor: <a href="http://www.mae.cuhk.edu.hk/%7Ejhuang/">Prof. Jie Huang</a>)
-* B.S., Mathematics and Applied Mathematics, <a href="http://www.sysu.edu.cn">Sun Yat-sen (Zhong-Shan University)</a>, June 2006
+* 博士, 电气工程, <a href="http://www.nyu.edu">美国纽约大学(New York University)</a>, May 2017. (导师:<a href="http://engineering.nyu.edu/people/zhong-ping-jiang">欧洲科学院院士Zhong-Ping Jiang</a>)
+* 硕士, 控制理论与控制工程,<a href="http://www.neu.edu.cn/">东北大学</a>, Jul 2013. (导师: <a href="http://www.ise.neu.edu.cn/2019/0109/c1432a8406/page.htm/">中国工程院柴天佑院士</a>)
+* 学士, 自动化, <a href="http://www.neu.edu.cn">东北大学</a>, Jul 2011
