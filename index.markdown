@@ -17,8 +17,8 @@ layout: sitepage
 * 助理教授, Aug 2017 - Jul 2020, <a href="http://www.georgiasouthern.com">美国南佐治亚大学 (Georgia Southern University)
   
 # 教育经历
-* 博士, 电气工程, <a href="http://www.nyu.edu">美国纽约大学(New York University)</a>, May 2017. (导师:<a href="http://engineering.nyu.edu/people/zhong-ping-jiang">Zhong-Ping Jiang，欧洲科学院院士</a>)
-* 硕士, 控制理论与控制工程,<a href="http://www.neu.edu.cn/">东北大学</a>, Jul 2013. (导师: <a href="http://www.ise.neu.edu.cn/2019/0109/c1432a8406/page.htm/">柴天佑，中国工程院院士</a>)
+* 博士, 电气工程, <a href="http://www.nyu.edu">美国纽约大学(New York University)</a>, May 2017. (导师: <a href="http://engineering.nyu.edu/people/zhong-ping-jiang">Zhong-Ping Jiang，欧洲科学院院士</a>)
+* 硕士, 控制理论与控制工程, <a href="http://www.neu.edu.cn/">东北大学</a>, Jul 2013. (导师: <a href="http://www.ise.neu.edu.cn/2019/0109/c1432a8406/page.htm/">柴天佑，中国工程院院士</a>)
 * 学士, 自动化, <a href="http://www.neu.edu.cn">东北大学</a>, Jul 2011
 
 # 研究方向
@@ -52,5 +52,5 @@ layout: sitepage
 [Google Scholar](https://scholar.google.com/citations?user=XNYwzswAAAAJ&hl),
 [GitHub](https://github.com/WeinanGao/),
 * Email: gaown@mail.neu.edu.cn
-
+* 办公地点：东北大学综合楼715
 
