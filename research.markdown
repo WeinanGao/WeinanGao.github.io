@@ -11,7 +11,7 @@ permalink: /research/
 * Kyriakos Vamvoudakis, 美国佐治亚理工学院
 * Timo Hämäläinen Timo, 芬兰于韦斯屈莱大学
 * Vladimir Stojanovic, 塞尔维亚克拉古耶夫卡克大学
-* Hamidreza Modares, 美国密歇根大学
+* Hamidreza Modares, 美国密歇根州立大学
 * Xiangnan Zhong, 美国佛罗里达大西洋大学
 
 
