@@ -31,7 +31,7 @@ permalink: /research/
 * Yunfeng Chen, 美国普渡大学
 
 
-# 智能麻醉机器人#
+# 智能麻醉机器人 #
 
 <strong> 部分研究合作者：</strong> 
 * Sherwin Davoud, 美国哈佛医学院
