@@ -12,14 +12,14 @@ permalink: /mypublications/
 <ol> <li> Weinan Gao, and Zhong-Ping Jiang. Data-driven Nonlinear Adaptive Optimal Control of Connected Vehicles. Neural Information Processing, Lecture Notes in Computer Science series , Springer, 2017. </li>
 <li> Zhong-Ping Jiang, Tao Bian, and Weinan Gao.  Learning-Based Control: A Tutorial and Some Recent Results, Foundations and Trends in Systems and Control: vol. 8, no. 3, pp 176–284, 2020. doi: 10.1561/2600000023. </li>
 </ol>
-<br />
+
 
 # Patents #
 <ol>
 <li> Ankush Chakrabarty, Rien Quirynen, Claus Danielson, and Weinan Gao. System and Method for Data-Driven Control of Constrained System, 2020. United States Patent Application 20200285209. </li>
 <li> Yebin Wang, and Weinan Gao.  Data-Driven Nonlinear Output-Feedback Control of Power Generators , 2020. United States Patent Application  United States Patent Application 20200310372. </li>
 </ol>
-<br />
+
 
 # Journal Articles #
 <ol>
@@ -118,7 +118,7 @@ permalink: /mypublications/
   
 </ol>
 
-<br />
+
 
 # Conference Papers #
 <ol>
