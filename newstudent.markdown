@@ -1,6 +1,6 @@
 ---
 layout: sitepage
-title: 招生信息
+title: New Student
 permalink: /newstudent
 ---
 
