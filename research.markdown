@@ -13,6 +13,7 @@ permalink: /research/
 * Vladimir Stojanovic, 塞尔维亚克拉古耶夫卡克大学
 * Hamidreza Modares, 美国密歇根州立大学
 * Xiangnan Zhong, 美国佛罗里达大西洋大学
+* Ankush Chakrabarty, 美国三菱电气研究实验室
 
 
 # 电力系统优化与控制 #
