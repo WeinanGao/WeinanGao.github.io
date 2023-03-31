@@ -1,7 +1,7 @@
 ---
 layout: sitepage
-title: Service
-permalink: /service/
+title: 招生信息
+permalink: /newstudent
 ---
 
 # 期刊编委及客座编委 #
@@ -18,31 +18,4 @@ permalink: /service/
 * Editorial Board Member, International Journal of Systems, Control and Communications, 2020-Now
 * Editorial Board Member, International Journal of Security, 2021-Now
 
-# 学术会议程序委员会 #
-
-* Program Committee Member, American Control Conference, 2022, 2023
-* Web Chair, IEEE INFOCOM MobiSec Workshop, 2022, 2021, 2018
-* Invited Session Chair, International Conference on Data-Driven Optimizations of Complex Systems, 2022
-* Technical Committee Member, International Conference on Robot Systems and Applications (ICRSA), 2022 
-* Technical Committee Member, International Workshop on Intelligent Systems and Internet of Things (ISIoT), at DCOSS, 2022
-* Organizer of Invited Session "Data-Driven Intelligent Control and Fault Detection" at CCDC, 2022
-* Associate Editor,  IFAC International Workshop on Adaptation and Learning in Control and Signal (ALCOS), 2022 
-* Organizer of Invited Session "Adaptive Control, Learning Systems and Their Applications" at MICNON 2021 
-* Technical Committee Member, IEEE Annual Computing and Communication workshop and Conference (CCWC), 2020
-* Technical Committee Member, IEEE Annual Ubiquitous Computing, Electronics and Mobile Communication Conference  (UEMCON), 2020
-* International Program Committee Member, International Conference on Neural Computation Theory and Applications , 2019
-* Associate Editor, Chinese Control and Decision Conference, 2018, 2019
-* Organizer of Special Session on IEEE SSCI ADPRL, 2018
-* Technical Program Committee Member, IWCMC-Security 2018 
-* Session Chair, IEEE UEMCON, 2017
-* Technical Program Committee Member, IEEE Symposium Series on Computation Intelligence (SSCI), 2017, 2019
-
-
-# 学术委员会 #
-
-* IEEE Control Systems Society on  Smart Cities, 2021-Now, 委员
-* IEEE Control Systems Society on  Nonlinear Systems and Control, 2018-Now, 委员
-* IFAC TC 1.2 Adaptive and Learning Systems, 2020-Now, 委员
-* IFAC TC 2.3 Non-Linear Control Systems, 2020-Now, 委员
-* 中国人工智能学会工业人工智能专委会，2022-Now, 委员
 
