@@ -4,18 +4,15 @@ title: 招生信息
 permalink: /newstudent
 ---
 
-# 期刊编委及客座编委 #
+# 招生信息 #
 
-* Associate Editor, IEEE Transactions on Neural Networks and Learning Systems, 2022-Now (Impact Factor: 14.255)
-* Associate Editor, IEEE/CAA Journal of Automatica Sinica, 2020-Now (Impact Factor: 7.847)
-* Associate Editor, Neurocomputing, Elsevier, 2018-Now (Impact Factor 5.779)
-* Associate Editor, Control Engineering Practice, 2022-Now (Impact Factor: 4.057) 
-* Associate Editor, IEEE Transactions on Circuits and Systems II: Express Briefs, 2022-Now (Impact Factor: 3.691)
-* Guest Editor, Complex & Intelligent Systems, Springer, 2020 (Impact Factor: 6.7)
-* Guest Editor, Electronics, 2021-2022 (Impact Factor: 2.69)
-* Guest Editor, International Journal of Modelling, Identification and Control, 2021-2022 
-* Editorial Board Member, Neural Computing and Applications, Springer, 2018-Now (Impact Factor: 5.606)
-* Editorial Board Member, International Journal of Systems, Control and Communications, 2020-Now
-* Editorial Board Member, International Journal of Security, 2021-Now
+课题组计划每年招收1-2名博士研究生和1-3名硕士研究生。有意向报考的学生欢迎将个人简历和代表性学术成果发送至gaown@mail.neu.edu.cn
 
+
+博士招生要求：
+
+* 1.     获得自动化、人工智能、电子工程、计算机、数学等专业的硕士学位
+* 2.     具有扎实的控制理论（经典控制理论、现代控制系统）和数学（线性代数、微分方程）基础
+* 3.     擅长MATLAB、Python、C++等计算机编程
+* 4.     具有良好的英文阅读和科技写作能力
 
