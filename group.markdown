@@ -4,6 +4,8 @@ title: Group
 permalink: /group/
 ---
 
+<img src="{{site.url}}/groupphotoFIT.jpg" alt="Group Photo" width="334px" height="374px" />&nbsp;
+
 # 在美国任教期间指导的研究生 #
 
 * Omar Qasem (美国佛罗里达理工学院博士)
