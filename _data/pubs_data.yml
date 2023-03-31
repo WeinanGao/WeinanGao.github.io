@@ -275,9 +275,9 @@ conferences:
 ################################################# JOURNAL #############################################
 #######################################################################################################
 journals:
-- title: Ultra-fast mode reversal coriolis gyroscopes
-  journal: IEEE/ASME Transactions on Mechatronics
-  authors: Yuchen Wang, Jiakun Hou, Chong Li, Jin Wu, <strong>Yu Jiang</strong>, Ming Liu, and John Y. Hung
+- title: Hybrid Iteration ADP Algorithm to Solve Cooperative, Optimal Output Regulation Problem for Continuous-Time, Linear, Multi-Agent Systems: Theory and Application in Islanded Modern Microgrids with IBRs
+  journal: IEEE Transactions on Industrial Electronics
+  authors: 1.	Omar Qasem**, Masoud Davari, <strong>Weinan Gao</strong>, Daniel Kirk and Tianyou Chai
   year: accepted
 
 - title: "Computer vision for road imaging and pothole detection: a state-of-the-art review of systems and algorithms"
