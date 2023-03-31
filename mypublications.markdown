@@ -5,8 +5,9 @@ permalink: /mypublications/
 ---
 
 # PhD Dissertation #
-
-* Weinan Gao. Data-driven Adaptive Optimal Tracking and its Applications to Intelligent Transportation Systems. New York University, 2017.
+<ol>
+<li> Weinan Gao. Data-driven Adaptive Optimal Tracking and its Applications to Intelligent Transportation Systems. New York University, 2017. </li>
+</ol> 
 
 # Book Chapters #
 <ol> <li> Weinan Gao, and Zhong-Ping Jiang. Data-driven Nonlinear Adaptive Optimal Control of Connected Vehicles. Neural Information Processing, Lecture Notes in Computer Science series , Springer, 2017. </li>
