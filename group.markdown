@@ -6,6 +6,8 @@ permalink: /group/
 
 <img src="{{site.url}}/groupphotoFIT.jpg" alt="Group Photo" width="668px" height="748px" />&nbsp;
 
+美国佛罗里达理工学院任教期间课题组合照，从左至右：Xiushi Shen, Sagar Vilas Jagtap, Godwyll Aikins, Weinan Gao, Omar Qasem, Khalid Jebari
+
 # 在美国任教期间指导的研究生 #
 
 * Omar Qasem (美国佛罗里达理工学院博士)
