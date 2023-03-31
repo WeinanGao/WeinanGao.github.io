@@ -275,7 +275,7 @@ conferences:
 ################################################# JOURNAL #############################################
 #######################################################################################################
 journals:
-- title: Hybrid Iteration ADP Algorithm to Solve Cooperative, Optimal Output Regulation Problem for Continuous-Time, Linear, Multi-Agent Systems: Theory and Application in Islanded Modern Microgrids with IBRs
+- title: Hybrid Iteration ADP Algorithm to Solve Cooperative, Optimal Output Regulation Problem for Continuous-Time, Linear, Multi-Agent Systems Theory and Application in Islanded Modern Microgrids with IBRs
   journal: IEEE Transactions on Industrial Electronics
   authors: 1.	Omar Qasem**, Masoud Davari, <strong>Weinan Gao</strong>, Daniel Kirk and Tianyou Chai
   year: accepted
