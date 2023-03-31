@@ -1,7 +1,7 @@
 ---
 layout: sitepage
 title: New Student
-permalink: /newstudent
+permalink: /newstudent/
 ---
 
 # 招生信息 #
