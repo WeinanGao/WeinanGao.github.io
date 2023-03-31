@@ -14,11 +14,11 @@ layout: sitepage
 * 教授，博士生导师, Oct 2022 - Present, <a href="http://www.neu.edu.cn">东北大学 
 * 助理教授，博士生导师, Aug 2020 - Aug 2022, <a href="http://www.fit.edu">美国佛罗里达理工学院 (Florida Institute of Technology)
 * 客座教授, May 2018 - Aug 2018, <a href="http://www.merl.com">美国三菱电气研究实验室 (Mitsubishi Electric Research Laboratories)
-* 助理教授, Aug 2017 - Jul 2020, <a href="http://www.georgiasouthern.com">美国南佐治亚大学 (Georgia Southern University)
+* 助理教授, Aug 2017 - Jul 2020, <a href="http://www.georgiasouthern.edu">美国南佐治亚大学 (Georgia Southern University)
   
 # 教育经历
 * 博士, 电气工程, <a href="http://www.nyu.edu">美国纽约大学(New York University)</a>, May 2017. (导师: <a href="http://engineering.nyu.edu/people/zhong-ping-jiang">Zhong-Ping Jiang，欧洲科学院院士</a>)
-* 硕士, 控制理论与控制工程, <a href="http://www.neu.edu.cn/">东北大学</a>, Jul 2013. (导师: <a href="http://www.ise.neu.edu.cn/2019/0109/c1432a8406/page.htm/">柴天佑，中国工程院院士</a>)
+* 硕士, 控制理论与控制工程, <a href="http://www.neu.edu.cn/">东北大学</a>, Jul 2013. (导师: <a href="http://www.ise.neu.edu.cn/2019/0109/c1432a8406/page.htm">柴天佑，中国工程院院士</a>)
 * 学士, 自动化, <a href="http://www.neu.edu.cn">东北大学</a>, Jul 2011
 
 # 奖励与荣誉
