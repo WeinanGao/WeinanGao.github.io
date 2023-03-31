@@ -33,7 +33,7 @@ permalink: /service/
 * International Program Committee Member, International Conference on Neural Computation Theory and Applications , 2019
 * Associate Editor, Chinese Control and Decision Conference, 2018, 2019
 * Organizer of Special Session on IEEE SSCI ADPRL, 2018
-* Technical Program Committee Member, IWCMC-Security 2018 
+* Technical Program Committee Member, IWCMC-Security, 2018 
 * Session Chair, IEEE UEMCON, 2017
 * Technical Program Committee Member, IEEE Symposium Series on Computation Intelligence (SSCI), 2017, 2019
 
