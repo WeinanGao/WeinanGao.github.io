@@ -31,6 +31,7 @@ permalink: /research/
 
 
 # 智能麻醉机器人#
+
 <strong> 部分研究合作者：</strong> 
 * Sherwin Davoud, 美国哈佛医学院
 * Efrain Riveros Perez, 美国奥古斯塔医学院
