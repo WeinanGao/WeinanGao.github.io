@@ -4,7 +4,7 @@ title: Group
 permalink: /group/
 ---
 
-<img src="{{site.url}}/groupphotoFIT.jpg" alt="Group Photo" width="500px" height="560px" />&nbsp;
+<img src="{{site.url}}/groupphotoFIT.jpg" alt="Group Photo" width="300px" height="336px" />&nbsp;
 
 美国佛罗里达理工学院任教期间课题组合照，从左至右：Xiushi Shen, Sagar Vilas Jagtap, Godwyll Aikins, Weinan Gao, Omar Qasem, Khalid Jebari
 
