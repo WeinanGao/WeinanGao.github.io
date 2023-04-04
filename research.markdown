@@ -6,7 +6,7 @@ permalink: /research/
 
 # 强化学习、自适应动态规划、智能控制 #
 
-<img src="{{site.url}}/groupphotoFIT.jpg" alt="Group Photo" width="300px" height="336px" />&nbsp;
+<img src="{{site.url}}/ADPOR.jpg" alt="ADPOR" width="300px" height="101px" />&nbsp;
 
 <strong> 部分合作者：</strong> 
 * Frank Lewis, 美国德克萨斯大学阿灵顿分校
@@ -27,6 +27,8 @@ permalink: /research/
 
 # 智能网联汽车、无人驾驶、混合动力汽车、交通安全分析 #
 
+<img src="{{site.url}}/平台.jpg" alt="Platform" width="300px" height="180px" />&nbsp;
+
 <strong> 部分合作者：</strong> 
 * Kaan Ozbay, 美国纽约大学
 * Shaurya Agarwal, 美国中佛罗里达大学
@@ -34,6 +36,8 @@ permalink: /research/
 
 
 # 智能麻醉机器人 #
+
+<img src="{{site.url}}/母婴.jpg" alt="Anathesia" width="300px" height="113px" />&nbsp;
 
 <strong> 部分合作者：</strong> 
 * Sherwin Davoud, 美国哈佛医学院
