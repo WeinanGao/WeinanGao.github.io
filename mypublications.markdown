@@ -36,6 +36,8 @@ permalink: /mypublications/
 <li> Yi Jiang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Reinforcement Learning and Cooperative H_\infty Output Regulation of Linear Continuous-Time Multi-Agent Systems, Automatica, vol. 148, article 110768, 2023.  </li>
 
 <li> Yang Yang, Xin Fan, Weinan Gao, Wenbin Yue, Aaron Liu, Shuocong Geng, and Jinran Wu. Event-Triggered Output Feedback Control for a Class of Nonlinear Systems via Disturbance Observer and Adaptive Dynamic Programming. IEEE Transactions on Fuzzy Systems, in press, 2023. doi: 10.1109/TFUZZ.2023.3245294. </li>  
+ 
+<li> Jingfan Zhang, Zhaoxiang Li, Shuai Wang, Yuan Dai, Ruirui Zhang, Jie Lai, Dongsheng Zhang, Ke Chen, Jie Hu, Weinan Gao, Jianshi Tang, Yu Zheng. Adaptive optimal output regulation for wheel-legged robot Ollie: A data-driven approach. Frontiers in Neurorobotics, in press, 2023. doi: 10.3389/fnbot.2022.1102259 </li>
 
 <li> Weinan Gao, Chao Deng, Yi Jiang, and Zhong-Ping Jiang. Resilient Reinforcement Learning and Robust Output Regulation Under Denial-of-Service Attacks, Automatica, vol. 142, article 110366, 2022. </li>
   
@@ -51,7 +53,7 @@ permalink: /mypublications/
 
 <li> Yi Jiang , Weinan Gao*, Jing Na , Di Zhang, Timo T Hamalainen, Vladimir Stojanovic and Frank L. Lewis. Value iteration and adaptive optimal output regulation with assured convergence rate, Control Engineering Practice, vol. 121, article 105042, 2022, doi: /j.conengprac.2021.105042. </li>
 
-<li> Zhongyang Wang, Yunjun Yu*, Weinan Gao*, Masoud Davari* and Chao Deng. Adaptive, optimal, virtual synchronous generator control of three-phase grid-connected inverters under different grid conditions---An adaptive dynamic programming approach. IEEE Transactions on Industrial Informatics, in press, 2022, doi: 10.1109/TII.2021.3138893. </li>
+<li> Zhongyang Wang, Yunjun Yu*, Weinan Gao*, Masoud Davari* and Chao Deng. Adaptive, optimal, virtual synchronous generator control of three-phase grid-connected inverters under different grid conditions---An adaptive dynamic programming approach. IEEE Transactions on Industrial Informatics, vol. 18, no. 11, 7388-7399, 2022, doi: 10.1109/TII.2021.3138893. </li>
 
 <li> Jianguo Zhao, Chunyu Yang, Wei Dai and Weinan Gao. Reinforcement learning-based composite optimal operational control of industrial systems with multiple unit devices, IEEE Transactions on Industrial Informatics, vol. 18, no. 2, 1091-1101, 2022, doi: 10.1109/TII.2021.3076471. </li>
 
