@@ -24,13 +24,21 @@ permalink: /mypublications/
 
 # Journal Articles #
 <ol>
+ 
+<li> Omar Qasem**, Masoud Davari, Weinan Gao*, Daniel Kirk and Tianyou Chai. Hybrid Iteration ADP Algorithm to Solve Cooperative, Optimal Output Regulation Problem for Continuous-Time, Linear, Multi-Agent Systems: Theory and Application in Islanded Modern Microgrids with IBRs, IEEE Transactions on Industrial Electronics, in press, 2023. doi: 10.1109/TIE.2023.3247734. </li>
+
+<li> Weinan Gao and Zhong-Ping Jiang. Data-Driven Cooperative Output Regulation of Multi-Agent Systems under Distributed Denial of Service Attacks, SCIENCE CHINA Information Sciences, in press, 2023. doi: 10.1007/s11432-022-3702-4. </li>
   
-<li> Weinan Gao, Chao Deng, Yi Jiang, and Zhong-Ping Jiang. Resilient Reinforcement Learning and Robust Output Regulation Under Denial-of-Service Attacks, Automatica, vol. 142, article 110366, 2022, doi: 10.1016/j.automatica.2022.110366. </li>
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao and Linna Zhou. Reinforcement Learning and Optimal Control of PMSM Speed Servo System, IEEE Transactions on Industrial Electronics, in press, 2023. doi: 10.1109/TIE.2022.3220886. </li>  
 
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Hamidreaz Modares, Xinkai Chen, and Wei DaiZhao. Linear quadratic tracking control of unknown systems: A two-phase reinforcement learning method, Automatica, in acceptance, 2022. </li>
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Hamidreaz Modares, Xinkai Chen, and Wei DaiZhao. Linear quadratic tracking control of unknown systems: A two-phase reinforcement learning method, Automatica, vol. 148, article 110761, 2023. </li>
 
-<li> Yi Jiang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Reinforcement Learning and Cooperative H_\infty Output Regulation of Linear Continuous-Time Multi-Agent Systems, Automatica, in acceptance, 2022.  </li>
+<li> Yi Jiang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Reinforcement Learning and Cooperative H_\infty Output Regulation of Linear Continuous-Time Multi-Agent Systems, Automatica, vol. 148, article 110768, 2023.  </li>
 
+<li> Yang Yang, Xin Fan, Weinan Gao, Wenbin Yue, Aaron Liu, Shuocong Geng, and Jinran Wu. Event-Triggered Output Feedback Control for a Class of Nonlinear Systems via Disturbance Observer and Adaptive Dynamic Programming. IEEE Transactions on Fuzzy Systems, in press, 2023. doi: 10.1109/TFUZZ.2023.3245294. </li>  
+
+<li> Weinan Gao, Chao Deng, Yi Jiang, and Zhong-Ping Jiang. Resilient Reinforcement Learning and Robust Output Regulation Under Denial-of-Service Attacks, Automatica, vol. 142, article 110366, 2022. </li>
+  
 <li> Hongyue Wu, Yunfeng Chen, Weinan Gao, Osahon Iroghama, and Junan Shen. Impacts of Countermeasures on Driving Performance through Drivers Attention in Rural Curves: A Driving Simulation Study, International Journal of Modelling, Identification and Control, in acceptance, 2022. </li>
 
 <li> Fuyu Zhao, Weinan Gao*, Tengfei Liu, and Zhong-Ping Jiang. Event-Triggered Robust Adaptive Dynamic Programming with Output-Feedback for Large-Scale Systems, IEEE Transactions on Control of Network Systems, 2022, doi: 10.1109/TCNS.2022.3186623. </li>
