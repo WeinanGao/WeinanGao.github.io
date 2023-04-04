@@ -20,6 +20,8 @@ permalink: /research/
 
 # 电力系统优化与控制 #
 
+<img src="{{site.url}}/Power.jpg" alt="Power" width="400px" height="235px" />&nbsp;
+
 <strong> 部分合作者：</strong> 
 * Frede Blaabjerg, 丹麦奥尔堡大学
 * Masoud Davari, 美国南佐治亚大学
