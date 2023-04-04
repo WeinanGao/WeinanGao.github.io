@@ -6,7 +6,7 @@ permalink: /research/
 
 # 强化学习、自适应动态规划、智能控制 #
 
-<img src="{{site.url}}/ADPOR.jpg" alt="ADPOR" width="400px" height="133px" />&nbsp;
+<img src="{{site.url}}/ADPOR.jpg" alt="ADPOR" width="500px" height="166px" />&nbsp;
 
 <strong> 部分合作者：</strong> 
 * Frank Lewis, 美国德克萨斯大学阿灵顿分校
@@ -20,7 +20,7 @@ permalink: /research/
 
 # 电力系统优化与控制 #
 
-<img src="{{site.url}}/Power.jpg" alt="Power" width="400px" height="235px" />&nbsp;
+<img src="{{site.url}}/Power.jpg" alt="Power" width="500px" height="293px" />&nbsp;
 
 <strong> 部分合作者：</strong> 
 * Frede Blaabjerg, 丹麦奥尔堡大学
@@ -29,7 +29,7 @@ permalink: /research/
 
 # 智能网联汽车、无人驾驶、混合动力汽车、交通安全分析 #
 
-<img src="{{site.url}}/平台.jpg" alt="Platform" width="400px" height="240px" />&nbsp;
+<img src="{{site.url}}/平台.jpg" alt="Platform" width="500px" height="300px" />&nbsp;
 
 <strong> 部分合作者：</strong> 
 * Kaan Ozbay, 美国纽约大学
@@ -39,7 +39,7 @@ permalink: /research/
 
 # 智能麻醉机器人 #
 
-<img src="{{site.url}}/母婴.jpg" alt="Anathesia" width="400px" height="150px" />&nbsp;
+<img src="{{site.url}}/母婴.jpg" alt="Anathesia" width="500px" height="188px" />&nbsp;
 
 <strong> 部分合作者：</strong> 
 * Sherwin Davoud, 美国哈佛医学院
