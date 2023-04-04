@@ -31,7 +31,7 @@ permalink: /mypublications/
   
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao and Linna Zhou. Reinforcement Learning and Optimal Control of PMSM Speed Servo System, IEEE Transactions on Industrial Electronics, in press, 2023. doi: 10.1109/TIE.2022.3220886. </li>  
 
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Hamidreaz Modares, Xinkai Chen, and Wei DaiZhao. Linear quadratic tracking control of unknown systems: A two-phase reinforcement learning method, Automatica, vol. 148, article 110761, 2023. </li>
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Hamidreaz Modares, Xinkai Chen, and Wei Dai. Linear quadratic tracking control of unknown systems: A two-phase reinforcement learning method, Automatica, vol. 148, article 110761, 2023. </li>
 
 <li> Yi Jiang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Reinforcement Learning and Cooperative H_\infty Output Regulation of Linear Continuous-Time Multi-Agent Systems, Automatica, vol. 148, article 110768, 2023.  </li>
 
