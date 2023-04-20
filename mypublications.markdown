@@ -25,6 +25,8 @@ permalink: /mypublications/
 # Journal Articles #
 <ol>
  
+<li> Chao Deng, Weinan Gao*, Changyun Wen, Zhiyong Chen and Wei Wang. Data-Driven Practical Cooperative Output Regulation Under Actuator Faults and DoS Attacks, IEEE Transactions on Cybernetics, in press, 2023. doi: 10.1109/TCYB.2023.3263480. </li> 
+ 
 <li> Omar Qasem**, Masoud Davari, Weinan Gao*, Daniel Kirk and Tianyou Chai. Hybrid Iteration ADP Algorithm to Solve Cooperative, Optimal Output Regulation Problem for Continuous-Time, Linear, Multi-Agent Systems: Theory and Application in Islanded Modern Microgrids with IBRs, IEEE Transactions on Industrial Electronics, in press, 2023. doi: 10.1109/TIE.2023.3247734. </li>
 
 <li> Weinan Gao and Zhong-Ping Jiang. Data-Driven Cooperative Output Regulation of Multi-Agent Systems under Distributed Denial of Service Attacks, SCIENCE CHINA Information Sciences, in press, 2023. doi: 10.1007/s11432-022-3702-4. </li>
