@@ -6,7 +6,7 @@ permalink: /newstudent/
 
 # 招生信息 #
 
-课题组计划在控制科学与工程方向每年招收1-2名博士研究生和1-3名硕士研究生。有意向报考的学生欢迎将个人简历和代表性学术成果发送至gaown[at]mail[dot]neu[dot]edu[dot]cn
+课题组计划在控制科学与工程方向每年招收1-2名博士研究生和3-4名硕士研究生。有意向报考的学生欢迎将个人简历和代表性学术成果发送至gaown[at]mail[dot]neu[dot]edu[dot]cn
 
 <strong>博士招生要求：</strong>
 
