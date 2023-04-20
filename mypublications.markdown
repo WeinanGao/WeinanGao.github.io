@@ -61,7 +61,7 @@ permalink: /mypublications/
 
 <li> Jianguo Zhao, Chunyu Yang, and Weinan Gao. Reinforcement Learning Based Optimal Control of Linear Singularly Perturbed Systems, IEEE Transactions on Circuits and Systems II: Express Briefs, in press, 2021, doi: 10.1109/TCSII.2021.3105652.   </li>
 
-<li> Yongliang Yang, Weinan Gao, Hamidreza Modares, and Cheng-Zhong Xu. Robust Actor-Critic Learning for Continuous-Time Nonlinear Systems with Unmodeled Dynamics, IEEE Transactions on Fuzzy Systems, in press, 2021, doi: 10.1109/TFUZZ.2021.3075501, <strong>hot paper.</strong> </li>
+<li> Yongliang Yang, Weinan Gao, Hamidreza Modares, and Cheng-Zhong Xu. Robust Actor-Critic Learning for Continuous-Time Nonlinear Systems with Unmodeled Dynamics, IEEE Transactions on Fuzzy Systems, in press, 2021, doi: 10.1109/TFUZZ.2021.3075501, <strong>Hot Paper.</strong> </li>
 
 <li> Weinan Gao, Mohammed Mynuddin**, Donald Wunsch, and Zhong-Ping Jiang. Reinforcement Learning-Based Cooperative Optimal Output Regulation via Distributed Adaptive Internal Model,  IEEE Transactions on Neural Network and Learning Systems, in press, 2021, doi: 10.1109/TNNLS.2021.3069728. </li>
 
@@ -117,7 +117,7 @@ permalink: /mypublications/
 
 <li> Weinan Gao, Yu Jiang, Zhong-Ping Jiang, and Tianyou Chai. Output-feedback adaptive optimal control of interconnected systems based on robust adaptive dynamic programming. Automatica, vol. 72, pp. 37-45, 2016 </li>
 
-<li> Weinan Gao, and Zhong-Ping Jiang. Adaptive dynamic programming and adaptive optimal output regulation of linear systems. IEEE Transactions on Automatic Control, vol. 61, no. 12, pp. 4164-4169, 2016, <strong>highly cited paper.</strong> </li>
+<li> Weinan Gao, and Zhong-Ping Jiang. Adaptive dynamic programming and adaptive optimal output regulation of linear systems. IEEE Transactions on Automatic Control, vol. 61, no. 12, pp. 4164-4169, 2016, <strong>Highly Cited Paper.</strong> </li>
 
 <li> Weinan Gao, Mengzhe Huang, Zhong-Ping Jiang, and Tianyou Chai. Sampled-data-based adaptive optimal output-feedback control of a 2-degree-of-freedom helicopter. IET Control Theory & Applications, vol. 10, pp. 1440-1447, 2016. </li>
 
@@ -160,7 +160,7 @@ permalink: /mypublications/
 
 <li> Yiyang Liu, Weinan Gao.  Adaptive Optimal Output Regulation of Continuous-Time Linear Systems via Internal Model Principle, IEEE UEMCON, 2018. </li>
 
-<li> Weinan Gao, Yiyang Liu, Adedapo Odekunle, Zhong-Ping Jiang, Yunjun Yu and Pingli Lu. Cooperative and Adaptive Optimal Output Regulation of Discrete-time Multi-agent Systems Using Reinforcement Learning, IEEE RCAR, 2018, <strong>best paper award.</strong> </li>
+<li> Weinan Gao, Yiyang Liu, Adedapo Odekunle, Zhong-Ping Jiang, Yunjun Yu and Pingli Lu. Cooperative and Adaptive Optimal Output Regulation of Discrete-time Multi-agent Systems Using Reinforcement Learning, IEEE RCAR, 2018, <strong>Best Paper Award.</strong> </li>
 
 <li> Adedapo Odekunle**, Weinan Gao, Chikamso Anayor**, Xi Wang** and Yunfeng Chen. Predictive Cruise Control of Connected and Autonomous Vehicles : An Adaptive Dynamic Programming Approach, IEEE SoutheastCon, 2018. </li>
 
