@@ -8,7 +8,7 @@ layout: sitepage
 [comment]: # (Insert my resume below)
 
 # News
-我和塞尔维亚克拉古耶瓦茨的V. Stojanovic教授与美国密歇根州立大学的H. Modares教授在Neural Computing and Applications杂志组织名为“Reinforcement Learning and Adaptive Dynamic Programming for Control Systems: Theory and Applications”的专刊，截止日期为2023年6月30日。欢迎各位专家投稿。详见 [Link](https://www.springer.com/journal/521/updates/24044564)
+* 我和塞尔维亚克拉古耶瓦茨的V. Stojanovic教授与美国密歇根州立大学的H. Modares教授在Neural Computing and Applications杂志组织名为“Reinforcement Learning and Adaptive Dynamic Programming for Control Systems: Theory and Applications”的专刊，截止日期为2023年6月30日。欢迎各位专家投稿。详见 [Link](https://www.springer.com/journal/521/updates/24044564)
 
 
 # 个人简介
