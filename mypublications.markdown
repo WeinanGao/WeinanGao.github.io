@@ -27,7 +27,7 @@ permalink: /mypublications/
  
 <li> Chao Deng, Weinan Gao*, Changyun Wen, Zhiyong Chen and Wei Wang. Data-Driven Practical Cooperative Output Regulation Under Actuator Faults and DoS Attacks, IEEE Transactions on Cybernetics, in press, 2023. doi: 10.1109/TCYB.2023.3263480. </li> 
  
-<li> Amir Afshari, Masoud Davari*, Senior Member, IEEE, Mehdi Karrari, Weinan Gao*, and Frede Blaabjerg. A Multivariable, Adaptive, Robust, Primary Control Enforcing Predetermined Dynamics of Interest in Islanded Microgrids Based on Grid-Forming Inverter-Based Resources, IEEE Transactions on Automation Science and Engineering, in press, 2023. doi: 10.1109/TASE.2023.3262852. </li>
+<li> Amir Afshari, Masoud Davari*, Mehdi Karrari, Weinan Gao*, and Frede Blaabjerg. A Multivariable, Adaptive, Robust, Primary Control Enforcing Predetermined Dynamics of Interest in Islanded Microgrids Based on Grid-Forming Inverter-Based Resources, IEEE Transactions on Automation Science and Engineering, in press, 2023. doi: 10.1109/TASE.2023.3262852. </li>
  
 <li> Omar Qasem**, Masoud Davari, Weinan Gao*, Daniel Kirk and Tianyou Chai. Hybrid Iteration ADP Algorithm to Solve Cooperative, Optimal Output Regulation Problem for Continuous-Time, Linear, Multi-Agent Systems: Theory and Application in Islanded Modern Microgrids with IBRs, IEEE Transactions on Industrial Electronics, in press, 2023. doi: 10.1109/TIE.2023.3247734. </li>
 
