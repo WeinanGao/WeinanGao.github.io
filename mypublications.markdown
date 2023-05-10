@@ -63,7 +63,7 @@ permalink: /mypublications/
 
 <li> Jianguo Zhao, Chunyu Yang, Wei Dai and Weinan Gao. Reinforcement learning-based composite optimal operational control of industrial systems with multiple unit devices, IEEE Transactions on Industrial Informatics, vol. 18, no. 2, 1091-1101, 2022, doi: 10.1109/TII.2021.3076471. </li>
 
-<li> Vladimir Djordjevic, Vladimir Stojanovic, Hongfeng Tao, Xiaona Song, Shuping He and Weinan Gao. Data driven control of hydraulic servo actuator based on adaptive dynamic programming, in press, Discrete and Continuous Dynamical Systems, American Institute of Mathematic Sciences, 2021, doi: 10.3934/dcdss.2021145.  </li>
+<li> Vladimir Djordjevic, Vladimir Stojanovic, Hongfeng Tao, Xiaona Song, Shuping He and Weinan Gao. Data driven control of hydraulic servo actuator based on adaptive dynamic programming, in press, Discrete and Continuous Dynamical Systems, American Institute of Mathematic Sciences, 2021, doi: 10.3934/dcdss.2021145.  <strong>Highly Cited Paper.</strong> </li>
 
 <li> Jianguo Zhao, Chunyu Yang, and Weinan Gao. Reinforcement Learning Based Optimal Control of Linear Singularly Perturbed Systems, IEEE Transactions on Circuits and Systems II: Express Briefs, in press, 2021, doi: 10.1109/TCSII.2021.3105652.   </li>
 
