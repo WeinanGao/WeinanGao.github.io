@@ -140,7 +140,7 @@ permalink: /mypublications/
 # Conference Papers #
 <ol>
  
-<li> Omar Qasem**, Weinan Gao, Hector Gutierrez. Adaptive Optimal Control for Discrete-Time Linear Systems via Hybrid Iteration, IEEE Data Driven Control and Learning Systems (DDCLS), 2023 </li>
+<li> Omar Qasem**, Weinan Gao, Hector Gutierrez. Adaptive Optimal Control for Discrete-Time Linear Systems via Hybrid Iteration, IEEE Data Driven Control and Learning Systems (DDCLS), 2023, <strong>Best Paper Award.</strong>  </li>
  
 <li>  Omar Qasem**, Khalid Jebari** and Weinan Gao. Adaptive Dynamic Programming and Data-Driven Cooperative Optimal Output Regulation with Adaptive Observers, Conference on Decision and Control (CDC), 2022.   </li>
 
