@@ -23,7 +23,7 @@ permalink: /mypublications/
 
 
 # Journal Articles #
-<ol>
+<ol> Omar Qasem, Weinan Gao*. Robust Policy Iteration of Uncertain Interconnected Systems With Imperfect Data, IEEE Transactions on Automation Science and Engineering, in acceptance, 2023. </li>
  
 <li> Chao Deng, Weinan Gao*, Changyun Wen, Zhiyong Chen and Wei Wang. Data-Driven Practical Cooperative Output Regulation Under Actuator Faults and DoS Attacks, IEEE Transactions on Cybernetics, in press, 2023. doi: 10.1109/TCYB.2023.3263480. </li> 
  
