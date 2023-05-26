@@ -143,7 +143,11 @@ permalink: /mypublications/
 # Conference Papers #
 <ol>
  
-<li> Omar Qasem**, Weinan Gao, Hector Gutierrez. Adaptive Optimal Control for Discrete-Time Linear Systems via Hybrid Iteration, IEEE Data Driven Control and Learning Systems (DDCLS), 2023, <strong>Best Paper Award.</strong>  </li>
+<li> Omar Qasem**, Weinan Gao and Hector Gutierrez. Adaptive Optimal Control for Discrete-Time Linear Systems via Hybrid Iteration, IEEE Data Driven Control and Learning Systems (DDCLS), 2023, <strong>Best Paper Award.</strong>  </li> 
+
+<li> Weinan Gao and Zhong-Ping Jiang. Cooperative Output Regulation of Multi-Agent Systems under Distributed Denial of Service Attacks, Chinese Control Conference, 2023. </li> 
+ 
+<li> Liwei An, Weinan Gao, Chao Deng, Weiwei Che. Collision/Obstacle Avoidance Dynamic Formation Reconfiguration of High-Order Nonlinear Multi-Agent Systems, Chinese Control and Decision Conference, 2022, <strong>Zhang Siying Outstanding Youth Paper Award Finalist.</strong> </li>
  
 <li>  Omar Qasem**, Khalid Jebari** and Weinan Gao. Adaptive Dynamic Programming and Data-Driven Cooperative Optimal Output Regulation with Adaptive Observers, Conference on Decision and Control (CDC), 2022.   </li>
 
