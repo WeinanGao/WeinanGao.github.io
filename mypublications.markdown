@@ -27,6 +27,8 @@ permalink: /mypublications/
  
 <li> Chao Deng, Weinan Gao*, Changyun Wen, Zhiyong Chen and Wei Wang. Data-Driven Practical Cooperative Output Regulation Under Actuator Faults and DoS Attacks, IEEE Transactions on Cybernetics, in press, 2023. doi: 10.1109/TCYB.2023.3263480. </li> 
  
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao and Ju H. Park. ADP-Based Optimal Control of Linear Singularly Perturbed Systems with Uncertain Dynamics: A Two-Stage Value Iteration Method, IEEE Transactions on Circuits and Systems II: Express Briefs, in press, doi: 10.1109/TCSII.2023.3277528. </li>
+ 
 <li> Amir Afshari, Masoud Davari*, Mehdi Karrari, Weinan Gao*, and Frede Blaabjerg. A Multivariable, Adaptive, Robust, Primary Control Enforcing Predetermined Dynamics of Interest in Islanded Microgrids Based on Grid-Forming Inverter-Based Resources, IEEE Transactions on Automation Science and Engineering, in press, 2023. doi: 10.1109/TASE.2023.3262852. </li>
  
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Linna Zhou, and Xiaomin Liu. Adpative Optimal Output Regulation of Interconnected Singularly Perturbed Systems With Application to Power Systems, IEEE Journal of Automatica Sinica, in acceptance, 2023. </li> 
