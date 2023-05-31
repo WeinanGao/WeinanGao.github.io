@@ -63,7 +63,7 @@ permalink: /mypublications/
 
 <li> Fuyu Zhao, Weinan Gao*, Tengfei Liu, and Zhong-Ping Jiang. Adaptive optimal output regulation of linear discrete-time systems based on event-triggered output-feedback, Automatica, vol. 137, article 110103, 2022, doi: 10.1016/j.automatica.2021.110103.   </li>
 
-<li> Yi Jiang , Weinan Gao*, Jing Na , Di Zhang, Timo T Hamalainen, Vladimir Stojanovic and Frank L. Lewis. Value iteration and adaptive optimal output regulation with assured convergence rate, Control Engineering Practice, vol. 121, article 105042, 2022, doi: /j.conengprac.2021.105042. </li>
+<li> Yi Jiang , Weinan Gao*, Jing Na , Di Zhang, Timo T Hamalainen, Vladimir Stojanovic and Frank L. Lewis. Value iteration and adaptive optimal output regulation with assured convergence rate, Control Engineering Practice, vol. 121, article 105042, 2022, doi: /j.conengprac.2021.105042, <strong>Highly Cited Paper.</strong> </li>
 
 <li> Zhongyang Wang, Yunjun Yu*, Weinan Gao*, Masoud Davari* and Chao Deng. Adaptive, optimal, virtual synchronous generator control of three-phase grid-connected inverters under different grid conditions---An adaptive dynamic programming approach. IEEE Transactions on Industrial Informatics, vol. 18, no. 11, 7388-7399, 2022, doi: 10.1109/TII.2021.3138893. </li>
 
