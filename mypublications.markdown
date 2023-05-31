@@ -150,6 +150,8 @@ permalink: /mypublications/
 
 <li> Weinan Gao and Zhong-Ping Jiang. Cooperative Output Regulation of Multi-Agent Systems under Distributed Denial of Service Attacks, Chinese Control Conference (CCC), 2023. </li> 
  
+<li> Sayn Chakraborty, Weinan Gao, Leilei Cui, Frank L. Lewis and Zhong-Ping Jiang. Learning-Based Adaptive Optimal Output Regulation of Discrete-Time Linear Systems, IFAC World Congress, 2023. </li>
+ 
 <li> Liwei An, Weinan Gao, Chao Deng, Weiwei Che. Collision/Obstacle Avoidance Dynamic Formation Reconfiguration of High-Order Nonlinear Multi-Agent Systems, Chinese Control and Decision Conference, 2023, <strong>Zhang Siying Outstanding Youth Paper Award Finalist.</strong> </li>
  
 <li>  Omar Qasem**, Khalid Jebari** and Weinan Gao. Adaptive Dynamic Programming and Data-Driven Cooperative Optimal Output Regulation with Adaptive Observers, Conference on Decision and Control (CDC), 2022.   </li>
