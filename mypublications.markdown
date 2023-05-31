@@ -46,20 +46,22 @@ permalink: /mypublications/
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Hamidreaz Modares, Xinkai Chen, and Wei Dai. Linear quadratic tracking control of unknown systems: A two-phase reinforcement learning method, Automatica, vol. 148, article 110761, 2023. </li>
 
 <li> Yi Jiang, Weinan Gao, Jin Wu, Tianyou Chai, and Frank L. Lewis. Reinforcement Learning and Cooperative H_\infty Output Regulation of Linear Continuous-Time Multi-Agent Systems, Automatica, vol. 148, article 110768, 2023.  </li>
+ 
+<li> Fuyu Zhao, Weinan Gao*, Tengfei Liu, and Zhong-Ping Jiang. Event-Triggered Robust Adaptive Dynamic Programming with Output-Feedback for Large-Scale Systems, IEEE Transactions on Control of Network Systems, vol. 10, no. 1, 63-74, 2023, doi: 10.1109/TCNS.2022.3186623. </li> 
 
 <li> Yang Yang, Xin Fan, Weinan Gao, Wenbin Yue, Aaron Liu, Shuocong Geng, and Jinran Wu. Event-Triggered Output Feedback Control for a Class of Nonlinear Systems via Disturbance Observer and Adaptive Dynamic Programming. IEEE Transactions on Fuzzy Systems, in press, 2023. doi: 10.1109/TFUZZ.2023.3245294. </li>  
  
 <li> Jingfan Zhang, Zhaoxiang Li, Shuai Wang, Yuan Dai, Ruirui Zhang, Jie Lai, Dongsheng Zhang, Ke Chen, Jie Hu, Weinan Gao, Jianshi Tang, Yu Zheng. Adaptive optimal output regulation for wheel-legged robot Ollie: A data-driven approach. Frontiers in Neurorobotics, in press, 2023. doi: 10.3389/fnbot.2022.1102259 </li>
 
 <li> Weinan Gao, Chao Deng, Yi Jiang, and Zhong-Ping Jiang. Resilient Reinforcement Learning and Robust Output Regulation Under Denial-of-Service Attacks, Automatica, vol. 142, article 110366, 2022. </li>
-  
-<li> Hongyue Wu, Yunfeng Chen, Weinan Gao, Osahon Iroghama, and Junan Shen. Impacts of Countermeasures on Driving Performance through Drivers Attention in Rural Curves: A Driving Simulation Study, International Journal of Modelling, Identification and Control, in acceptance, 2022. </li>
 
-<li> Fuyu Zhao, Weinan Gao*, Tengfei Liu, and Zhong-Ping Jiang. Event-Triggered Robust Adaptive Dynamic Programming with Output-Feedback for Large-Scale Systems, IEEE Transactions on Control of Network Systems, 2022, doi: 10.1109/TCNS.2022.3186623. </li>
+<li> Weinan Gao, Mohammed Mynuddin**, Donald Wunsch, and Zhong-Ping Jiang. Reinforcement Learning-Based Cooperative Optimal Output Regulation via Distributed Adaptive Internal Model,  IEEE Transactions on Neural Network and Learning Systems, vol. 3, no. 10, 5229-5240, 2022, doi: 10.1109/TNNLS.2021.3069728. </li>
+ 
+<li> Hongyue Wu, Yunfeng Chen, Weinan Gao, Osahon Iroghama, and Junan Shen. Impacts of Countermeasures on Driving Performance through Drivers Attention in Rural Curves: A Driving Simulation Study, International Journal of Modelling, Identification and Control, in acceptance, 2022. </li>
 
 <li> Weinan Gao and Zhong-Ping Jiang. Learning-based adaptive optimal output regulation of linear and nonlinear systems: An overview, Control Theory and Technology, vol. 20, 1-19, 2022, doi: 10.1007/s11768-022-00081-3. </li>
 
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao and Linna Zhou. Reinforcement learning and optimal setpoint tracking control of linear systems with external disturbances, IEEE Transactions on Industrial Informatics, in press, 2022, doi: 10.1109/TII.2022.3151797. </li>
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao and Linna Zhou. Reinforcement learning and optimal setpoint tracking control of linear systems with external disturbances, IEEE Transactions on Industrial Informatics, vol. 18, no. 11, 7770-7779, 2022, doi: 10.1109/TII.2022.3151797. </li>
 
 <li> Fuyu Zhao, Weinan Gao*, Tengfei Liu, and Zhong-Ping Jiang. Adaptive optimal output regulation of linear discrete-time systems based on event-triggered output-feedback, Automatica, vol. 137, article 110103, 2022, doi: 10.1016/j.automatica.2021.110103.   </li>
 
@@ -74,8 +76,6 @@ permalink: /mypublications/
 <li> Jianguo Zhao, Chunyu Yang, and Weinan Gao. Reinforcement Learning Based Optimal Control of Linear Singularly Perturbed Systems, IEEE Transactions on Circuits and Systems II: Express Briefs, in press, 2021, doi: 10.1109/TCSII.2021.3105652.   </li>
 
 <li> Yongliang Yang, Weinan Gao, Hamidreza Modares, and Cheng-Zhong Xu. Robust Actor-Critic Learning for Continuous-Time Nonlinear Systems with Unmodeled Dynamics, IEEE Transactions on Fuzzy Systems, in press, 2021, doi: 10.1109/TFUZZ.2021.3075501, <strong>Hot Paper.</strong> </li>
-
-<li> Weinan Gao, Mohammed Mynuddin**, Donald Wunsch, and Zhong-Ping Jiang. Reinforcement Learning-Based Cooperative Optimal Output Regulation via Distributed Adaptive Internal Model,  IEEE Transactions on Neural Network and Learning Systems, in press, 2021, doi: 10.1109/TNNLS.2021.3069728. </li>
 
 <li> Fuyu Zhao, Weinan Gao, Zhong-Ping Jiang and Tengfei Liu. Event-Triggered Adaptive Optimal Control Using Output Feedback: An Adaptive Dynamic Programming Approach, IEEE Transactions on Neural Networks and Learning Systems, vol. 23, no. 11, 5208-5221, 2021. doi: 10.1109/TNNLS.2020.3027301.  </li>
 
