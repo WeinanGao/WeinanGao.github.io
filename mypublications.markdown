@@ -66,16 +66,16 @@ permalink: /mypublications/
 <li> Fuyu Zhao, Weinan Gao*, Tengfei Liu, and Zhong-Ping Jiang. Adaptive optimal output regulation of linear discrete-time systems based on event-triggered output-feedback, Automatica, vol. 137, article 110103, 2022, doi: 10.1016/j.automatica.2021.110103.   </li>
 
 <li> Yi Jiang , Weinan Gao*, Jing Na , Di Zhang, Timo T Hamalainen, Vladimir Stojanovic and Frank L. Lewis. Value iteration and adaptive optimal output regulation with assured convergence rate, Control Engineering Practice, vol. 121, article 105042, 2022, doi: /j.conengprac.2021.105042, <strong>Highly Cited Paper.</strong> </li>
+ 
+<li> Jianguo Zhao, Chunyu Yang, and Weinan Gao. Reinforcement Learning Based Optimal Control of Linear Singularly Perturbed Systems, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, 1362-1366, 2022, doi: 10.1109/TCSII.2021.3105652.   </li>
+
+<li> Yongliang Yang, Weinan Gao, Hamidreza Modares, and Cheng-Zhong Xu. Robust Actor-Critic Learning for Continuous-Time Nonlinear Systems with Unmodeled Dynamics, IEEE Transactions on Fuzzy Systems, vol. 30, no. 6, 2101-2112, 2022, doi: 10.1109/TFUZZ.2021.3075501, <strong>Hot Paper.</strong> </li> 
 
 <li> Zhongyang Wang, Yunjun Yu*, Weinan Gao*, Masoud Davari* and Chao Deng. Adaptive, optimal, virtual synchronous generator control of three-phase grid-connected inverters under different grid conditions---An adaptive dynamic programming approach. IEEE Transactions on Industrial Informatics, vol. 18, no. 11, 7388-7399, 2022, doi: 10.1109/TII.2021.3138893. </li>
 
 <li> Jianguo Zhao, Chunyu Yang, Wei Dai and Weinan Gao. Reinforcement learning-based composite optimal operational control of industrial systems with multiple unit devices, IEEE Transactions on Industrial Informatics, vol. 18, no. 2, 1091-1101, 2022, doi: 10.1109/TII.2021.3076471. </li>
 
 <li> Vladimir Djordjevic, Vladimir Stojanovic, Hongfeng Tao, Xiaona Song, Shuping He and Weinan Gao. Data driven control of hydraulic servo actuator based on adaptive dynamic programming, in press, Discrete and Continuous Dynamical Systems, American Institute of Mathematic Sciences, 2021, doi: 10.3934/dcdss.2021145, <strong>Highly Cited Paper.</strong> </li>
-
-<li> Jianguo Zhao, Chunyu Yang, and Weinan Gao. Reinforcement Learning Based Optimal Control of Linear Singularly Perturbed Systems, IEEE Transactions on Circuits and Systems II: Express Briefs, in press, 2021, doi: 10.1109/TCSII.2021.3105652.   </li>
-
-<li> Yongliang Yang, Weinan Gao, Hamidreza Modares, and Cheng-Zhong Xu. Robust Actor-Critic Learning for Continuous-Time Nonlinear Systems with Unmodeled Dynamics, IEEE Transactions on Fuzzy Systems, in press, 2021, doi: 10.1109/TFUZZ.2021.3075501, <strong>Hot Paper.</strong> </li>
 
 <li> Fuyu Zhao, Weinan Gao, Zhong-Ping Jiang and Tengfei Liu. Event-Triggered Adaptive Optimal Control Using Output Feedback: An Adaptive Dynamic Programming Approach, IEEE Transactions on Neural Networks and Learning Systems, vol. 23, no. 11, 5208-5221, 2021. doi: 10.1109/TNNLS.2020.3027301.  </li>
 
