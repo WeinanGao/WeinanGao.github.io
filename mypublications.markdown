@@ -26,6 +26,8 @@ permalink: /mypublications/
 <ol>
  
 <li> Yi Jiang, Weinan Gao, Ci Chen, Tianyou Chai and Frank L. Lewis. Adaptive Optimal Control of Linear Discrete-Time Networked Control Systems with Two-Channel Stochastic Dropouts, SIAM Journal on Control and Optimization, in acceptance, 2023. </li>
+
+<li> Omar Qasem**, Weinan Gao*, Hector Gutierrez. Experimental Validation of Data-Driven Adaptive Optimal Control for Continuous-Time Systems via Hybrid Iteration: An Application to Rotary Inverted Pendulum, IEEE Transactions on Industrial Electronics, in press, 2023. doi: 10.1109/TIE.2023.3292873. </li>
  
 <li> Omar Qasem**, Weinan Gao*. Robust Policy Iteration of Uncertain Interconnected Systems With Imperfect Data, IEEE Transactions on Automation Science and Engineering, in acceptance, 2023. </li>
  
