@@ -24,6 +24,8 @@ permalink: /mypublications/
 
 # Journal Articles #
 <ol>
+
+<li> Omar Qasem**, Weinan Gao* and Kyriakos G. Vamvoudakis. Adaptive Optimal Control of Continuous-Time Nonlinear Affine Systems via Hybrid Iteration, Automatica, in acceptance, 2023. </li>
  
 <li> Yi Jiang, Weinan Gao, Ci Chen, Tianyou Chai and Frank L. Lewis. Adaptive Optimal Control of Linear Discrete-Time Networked Control Systems with Two-Channel Stochastic Dropouts, SIAM Journal on Control and Optimization, in acceptance, 2023. </li>
 
