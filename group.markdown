@@ -10,7 +10,7 @@ permalink: /group/
 
 # 在美国任教期间指导的研究生 #
 
-* Omar Qasem (美国佛罗里达理工学院博士)
+* Omar Qasem (美国佛罗里达理工学院博士,在<strong>科威特American International University</strong>担任Instructor Professor)
 * Godwyll Aikins (美国佛罗里达理工学院博士)
 * Khalid Jebari (美国佛罗里达理工学院硕士)
 * Lauren-Ann Graham (美国佛罗里达理工学院硕士，在<strong>NASA肯尼迪航天中心</strong>工作)
