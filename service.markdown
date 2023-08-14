@@ -8,7 +8,7 @@ permalink: /service/
 
 * Associate Editor, IEEE Transactions on Neural Networks and Learning Systems, 2022-Now (Impact Factor: 14.255)
 * Associate Editor, IEEE/CAA Journal of Automatica Sinica, 2020-Now (Impact Factor: 7.847)
-* Associate Editor, Neurocomputing, Elsevier, 2018-Now (Impact Factor 5.779)
+* Associate Editor, Neurocomputing, Elsevier, 2018-2023 (Impact Factor 5.779)
 * Associate Editor, Control Engineering Practice, 2022-Now (Impact Factor: 4.057) 
 * Associate Editor, IEEE Transactions on Circuits and Systems II: Express Briefs, 2022-Now (Impact Factor: 3.691)
 * Guest Editor, Complex & Intelligent Systems, Springer, 2020 (Impact Factor: 6.7)
