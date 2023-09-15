@@ -4,9 +4,7 @@ title: Group
 permalink: /group/
 ---
 
-<img src="{{site.url}}/groupphotoFIT.jpg" alt="Group Photo" width="300px" height="336px" />&nbsp;
 
-美国佛罗里达理工学院任教期间课题组合照，从左至右：Xiushi Shen, Sagar Vilas Jagtap, Godwyll Aikins, Weinan Gao, Omar Qasem, Khalid Jebari
 
 # 在东北大学任教期间指导的研究生 #
 
@@ -36,3 +34,6 @@ permalink: /group/
 * Tervarious Carter (美国南佐治亚大学)
 * Uchechukwu Akanonu (美国南佐治亚大学)
 
+<img src="{{site.url}}/groupphotoFIT.jpg" alt="Group Photo" width="300px" height="336px" />&nbsp;
+
+美国佛罗里达理工学院任教期间课题组合照，从左至右：Xiushi Shen, Sagar Vilas Jagtap, Godwyll Aikins, Weinan Gao, Omar Qasem, Khalid Jebari
