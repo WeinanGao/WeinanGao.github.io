@@ -8,6 +8,14 @@ permalink: /group/
 
 美国佛罗里达理工学院任教期间课题组合照，从左至右：Xiushi Shen, Sagar Vilas Jagtap, Godwyll Aikins, Weinan Gao, Omar Qasem, Khalid Jebari
 
+# 在东北大学任教期间指导的研究生 #
+
+* Yuchen Dong (2023级博士研究生)
+* Sitong Liu (2023级硕士研究生)
+* Jian Ma (2023级硕士研究生)
+* Nairong Qiao (2023级硕士研究生)
+
+
 # 在美国任教期间指导的研究生 #
 
 * Omar Qasem (美国佛罗里达理工学院博士,在<strong>科威特American International University</strong>任<strong>Instructor Professor</strong>)
