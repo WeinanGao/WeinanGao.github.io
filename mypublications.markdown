@@ -25,6 +25,8 @@ permalink: /mypublications/
 # Journal Articles #
 <ol>
 
+<li> Masoud Davari, Jianguo Zhao, Chunyu Yang, Weinan Gao∗ and Tianyou Chai. 	Reinforcement Learning to Stabilize Singularly Perturbed DC-Side Dynamics of Grid-Connected Voltage-Source Converters in Modern AC/DC Grids Using Singular Perturbation Theory and Adaptive Dynamics Programming, IEEE Transactions on Industrial Electronics, in acceptance, 2023. </li>
+
 <li> Omar Qasem**, Weinan Gao* and Kyriakos G. Vamvoudakis. Adaptive Optimal Control of Continuous-Time Nonlinear Affine Systems via Hybrid Iteration, Automatica, vol. 157, article 111261, 2023. </li>
  
 <li> Yi Jiang, Weinan Gao, Ci Chen, Tianyou Chai and Frank L. Lewis. Adaptive Optimal Control of Linear Discrete-Time Networked Control Systems with Two-Channel Stochastic Dropouts, SIAM Journal on Control and Optimization, in acceptance, 2023. </li>
