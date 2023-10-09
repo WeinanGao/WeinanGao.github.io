@@ -8,6 +8,7 @@ layout: sitepage
 [comment]: # (Insert my resume below)
 
 # News
+* 10/2023: 我入选斯坦福全球前2％顶尖科学家榜单中的年度科学家榜单。[Link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6?trk=public_post_comment-text)
 * 05/2023: 我和佛罗里达理工学院H. Gutierrez教授与O. Qasem博士合作的会议文章获得IEEE数据驱动控制与学习系统会议最佳论文奖。
 * 04/2023：我和塞尔维亚克拉古耶瓦茨的V. Stojanovic教授与美国密歇根州立大学的H. Modares教授在<strong>Neural Computing and Applications</strong>杂志(影响因子IF=5.13)组织名为“Reinforcement Learning and Adaptive Dynamic Programming for Control Systems: Theory and Applications”的专刊，截止日期为2023年9月30日。欢迎各位专家投稿。更多信息请访问 [Link](https://www.springer.com/journal/521/updates/24044564)
 
