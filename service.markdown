@@ -20,7 +20,10 @@ permalink: /service/
 
 # 学术会议程序委员会 #
 
+* Publication Chair, International Conference on Automation and Intelligent Technologies (ICAIT), 2024
 * Program Committee Member, American Control Conference, 2022, 2023
+* National Organizing Committee Co-Chair, Interantional Conference on Industrial Artifical Intelligence (IAI), 2023
+* Special Session Co-Chair, International Conference on Control, Automation and Information Sciences (ICCAIS), 2023
 * Web Chair, IEEE INFOCOM MobiSec Workshop, 2022, 2021, 2018
 * Invited Session Chair, International Conference on Data-Driven Optimizations of Complex Systems, 2022
 * Technical Committee Member, International Conference on Robot Systems and Applications (ICRSA), 2022 
