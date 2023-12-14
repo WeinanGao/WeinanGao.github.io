@@ -25,7 +25,9 @@ permalink: /mypublications/
 # Journal Articles #
 <ol>
 
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Incremental reinforcement learning and optimal output regulation under unmeasurable disturbances, Automatica, in acceptance, 2023. </li>
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Optimal Dynamic Controller Design for Linear Quadratic Tracking Problems, IEEE Transactions on Autoamtic Control, in press, 2023. </li>
+
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Incremental reinforcement learning and optimal output regulation under unmeasurable disturbances, Automatica, regular paper, in acceptance, 2023. </li>
 
 <li> Masoud Davari, Weinan Gao*, Amir Aghazadeh, Frede Blaabjerg and Frank L. Lewis. An Optimal Synchronization Control Method of PLL Utilizing Adaptive Dynamic Programming to Synchronize Inverter-Based Resources With Unbalanced, Low-Inertia, and Very Weak Grids, IEEE Transactions on Automation Science and Engineering, in acceptance, 2023. </li>
 
