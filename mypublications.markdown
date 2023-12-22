@@ -160,6 +160,8 @@ permalink: /mypublications/
 
 # Conference Papers #
 <ol>
+
+<li> Adaptive Dynamic Programming and Decentralized Optimal Output Regulation of Two-Time-Scale Interconnected Systems, IEEE International Conference on Control, Automation and Information Systems (ICCAIS), 2023, <strong>Best Paper Award.</strong>  </li> 
  
 <li> Omar Qasem**, Weinan Gao and Hector Gutierrez. Adaptive Optimal Control for Discrete-Time Linear Systems via Hybrid Iteration, IEEE Data Driven Control and Learning Systems (DDCLS), 2023, <strong>Best Paper Award.</strong>  </li> 
 
