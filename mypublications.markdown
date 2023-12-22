@@ -30,7 +30,7 @@ permalink: /mypublications/
 
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Optimal Dynamic Controller Design for Linear Quadratic Tracking Problems, IEEE Transactions on Autoamtic Control, in press, 2024. </li>
 
-<li> Yuchen Dong**, Weinan Gao* and Zhong-Ping Jiang. New Results in Coopeartive Adaptive Optimal Output Regulation, Journal of Systems Science & Complexity, in acceptance, 2024. </li>li
+<li> Yuchen Dong**, Weinan Gao* and Zhong-Ping Jiang. New Results in Coopeartive Adaptive Optimal Output Regulation, Journal of Systems Science & Complexity, in acceptance, 2024. </li>
 
 <li> Masoud Davari, Weinan Gao*, Amir Aghazadeh, Frede Blaabjerg and Frank L. Lewis. An Optimal Synchronization Control Method of PLL Utilizing Adaptive Dynamic Programming to Synchronize Inverter-Based Resources With Unbalanced, Low-Inertia, and Very Weak Grids, IEEE Transactions on Automation Science and Engineering, in acceptance, 2023. </li>
 
