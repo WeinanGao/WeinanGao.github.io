@@ -7,6 +7,9 @@ layout: sitepage
 
 [comment]: # (Insert my resume below)
 
+
+<strong> Please visit [Google Sites](https://sites.google.com/view/weinangao) for my English version of Personal Website </strong>
+
 # News
 * 11/2023: 我和中国矿业大学杨春雨教授和赵建国博士合作的会议文章获得IEEE控制、自动化与信息科学会议最佳论文奖。
 * 10/2023: 我入选斯坦福全球前2％顶尖科学家榜单中的<strong>年度科学家榜单</strong>。[Link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6?trk=public_post_comment-text)
