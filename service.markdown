@@ -20,6 +20,8 @@ permalink: /service/
 
 # 学术会议程序委员会 #
 
+* Conference Chair, International Conference on Urban Construction and Transportation, 2024
+* Sponsorship Co-Chair, Interantional Conference on Industrial Artifical Intelligence (IAI), 2024
 * Publication Chair, International Conference on Automation and Intelligent Technologies (ICAIT), 2024
 * Program Committee Member, American Control Conference, 2022, 2023
 * National Organizing Committee Co-Chair, Interantional Conference on Industrial Artifical Intelligence (IAI), 2023
