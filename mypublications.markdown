@@ -28,35 +28,35 @@ permalink: /mypublications/
 
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Incremental reinforcement learning and optimal output regulation under unmeasurable disturbances, Automatica, regular paper, vol. 160, article 111468, 2024. </li>
 
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Optimal Dynamic Controller Design for Linear Quadratic Tracking Problems, IEEE Transactions on Autoamtic Control, in press, 2024. </li>
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Optimal Dynamic Controller Design for Linear Quadratic Tracking Problems, IEEE Transactions on Autoamtic Control, in press, 2024, doi: 10.1109/TAC.2023.3342057. </li>
 
 <li> Yuchen Dong**, Weinan Gao* and Zhong-Ping Jiang. New Results in Coopeartive Adaptive Optimal Output Regulation, Journal of Systems Science & Complexity, in acceptance, 2024. </li>
 
 <li> Masoud Davari, Weinan Gao*, Amir Aghazadeh, Frede Blaabjerg and Frank L. Lewis. An Optimal Synchronization Control Method of PLL Utilizing Adaptive Dynamic Programming to Synchronize Inverter-Based Resources With Unbalanced, Low-Inertia, and Very Weak Grids, IEEE Transactions on Automation Science and Engineering, in acceptance, 2023. </li>
 
-<li> Masoud Davari, Jianguo Zhao, Chunyu Yang, Weinan Gao* and Tianyou Chai. 	Reinforcement Learning to Stabilize Singularly Perturbed DC-Side Dynamics of Grid-Connected Voltage-Source Converters in Modern AC/DC Grids Using Singular Perturbation Theory and Adaptive Dynamics Programming, IEEE Transactions on Industrial Electronics, in acceptance, 2023. </li>
+<li> Masoud Davari, Jianguo Zhao, Chunyu Yang, Weinan Gao* and Tianyou Chai. Reinforcement Learning to Stabilize Singularly Perturbed DC-Side Dynamics of Grid-Connected Voltage-Source Converters in Modern AC/DC Grids Using Singular Perturbation Theory and Adaptive Dynamics Programming, IEEE Transactions on Industrial Electronics, in acceptance, 2023. </li>
 
 <li> Omar Qasem**, Weinan Gao* and Kyriakos G. Vamvoudakis. Adaptive Optimal Control of Continuous-Time Nonlinear Affine Systems via Hybrid Iteration, Automatica, vol. 157, article 111261, 2023. </li>
  
-<li> Yi Jiang, Weinan Gao, Ci Chen, Tianyou Chai and Frank L. Lewis. Adaptive Optimal Control of Linear Discrete-Time Networked Control Systems with Two-Channel Stochastic Dropouts, SIAM Journal on Control and Optimization, in acceptance, 2023. </li>
+<li> Yi Jiang, Weinan Gao, Ci Chen, Tianyou Chai and Frank L. Lewis. Adaptive Optimal Control of Linear Discrete-Time Networked Control Systems with Two-Channel Stochastic Dropouts, SIAM Journal on Control and Optimization, vol. 61, no. 5, 3183-3208, 2023. </li>
 
 <li> Omar Qasem**, Weinan Gao*, Hector Gutierrez. Experimental Validation of Data-Driven Adaptive Optimal Control for Continuous-Time Systems via Hybrid Iteration: An Application to Rotary Inverted Pendulum, IEEE Transactions on Industrial Electronics, in press, 2023. doi: 10.1109/TIE.2023.3292873. </li>
  
-<li> Omar Qasem**, Weinan Gao*. Robust Policy Iteration of Uncertain Interconnected Systems With Imperfect Data, IEEE Transactions on Automation Science and Engineering, in acceptance, 2023. </li>
+<li> Omar Qasem**, Weinan Gao*. Robust Policy Iteration of Uncertain Interconnected Systems With Imperfect Data, IEEE Transactions on Automation Science and Engineering, in acceptance, 2023, doi: 10.1109/TASE.2023.3276369. </li>
  
-<li> Chao Deng, Weinan Gao*, Changyun Wen, Zhiyong Chen and Wei Wang. Data-Driven Practical Cooperative Output Regulation Under Actuator Faults and DoS Attacks, IEEE Transactions on Cybernetics, in press, 2023. doi: 10.1109/TCYB.2023.3263480. </li> 
+<li> Chao Deng, Weinan Gao*, Changyun Wen, Zhiyong Chen and Wei Wang. Data-Driven Practical Cooperative Output Regulation Under Actuator Faults and DoS Attacks, IEEE Transactions on Cybernetics, vol. 53, no. 11, 7417-7428, 2023. doi: 10.1109/TCYB.2023.3263480. </li> 
  
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao and Ju H. Park. ADP-Based Optimal Control of Linear Singularly Perturbed Systems with Uncertain Dynamics: A Two-Stage Value Iteration Method, IEEE Transactions on Circuits and Systems II: Express Briefs, in press, 2023. doi: 10.1109/TCSII.2023.3277528. </li>
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao and Ju H. Park. ADP-Based Optimal Control of Linear Singularly Perturbed Systems with Uncertain Dynamics: A Two-Stage Value Iteration Method, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 12, 4399-4403, 2023. doi: 10.1109/TCSII.2023.3277528. </li>
  
 <li> Amir Afshari, Masoud Davari*, Mehdi Karrari, Weinan Gao*, and Frede Blaabjerg. A Multivariable, Adaptive, Robust, Primary Control Enforcing Predetermined Dynamics of Interest in Islanded Microgrids Based on Grid-Forming Inverter-Based Resources, IEEE Transactions on Automation Science and Engineering, in press, 2023. doi: 10.1109/TASE.2023.3262852. </li>
  
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Linna Zhou, and Xiaomin Liu. Adpative Optimal Output Regulation of Interconnected Singularly Perturbed Systems With Application to Power Systems, IEEE Journal of Automatica Sinica, in acceptance, 2023. </li> 
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Linna Zhou, and Xiaomin Liu. Adpative Optimal Output Regulation of Interconnected Singularly Perturbed Systems With Application to Power Systems, IEEE Journal of Automatica Sinica, vol. 11, no. 3, pp. 1–13, 2024. </li> 
  
-<li> Omar Qasem**, Masoud Davari, Weinan Gao*, Daniel Kirk and Tianyou Chai. Hybrid Iteration ADP Algorithm to Solve Cooperative, Optimal Output Regulation Problem for Continuous-Time, Linear, Multi-Agent Systems: Theory and Application in Islanded Modern Microgrids with IBRs, IEEE Transactions on Industrial Electronics, in press, 2023. doi: 10.1109/TIE.2023.3247734. </li>
+<li> Omar Qasem**, Masoud Davari, Weinan Gao*, Daniel Kirk and Tianyou Chai. Hybrid Iteration ADP Algorithm to Solve Cooperative, Optimal Output Regulation Problem for Continuous-Time, Linear, Multi-Agent Systems: Theory and Application in Islanded Modern Microgrids with IBRs, IEEE Transactions on Industrial Electronics, vol. 71, no. 1, pp. 834-845, 2024. doi: 10.1109/TIE.2023.3247734. </li>
 
-<li> Weinan Gao and Zhong-Ping Jiang. Data-Driven Cooperative Output Regulation of Multi-Agent Systems under Distributed Denial of Service Attacks, SCIENCE CHINA Information Sciences, in press, 2023. doi: 10.1007/s11432-022-3702-4. </li>
+<li> Weinan Gao and Zhong-Ping Jiang. Data-Driven Cooperative Output Regulation of Multi-Agent Systems under Distributed Denial of Service Attacks, SCIENCE CHINA Information Sciences, vol. 66, article 190201, 2023. doi: 10.1007/s11432-022-3702-4. </li>
   
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao and Linna Zhou. Reinforcement Learning and Optimal Control of PMSM Speed Servo System, IEEE Transactions on Industrial Electronics, in press, 2023. doi: 10.1109/TIE.2022.3220886. </li>  
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao and Linna Zhou. Reinforcement Learning and Optimal Control of PMSM Speed Servo System, IEEE Transactions on Industrial Electronics, vol. 70, no. 8, 8305-8313, 2023, doi: 10.1109/TIE.2022.3220886. </li>  
 
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Hamidreaz Modares, Xinkai Chen, and Wei Dai. Linear quadratic tracking control of unknown systems: A two-phase reinforcement learning method, Automatica, vol. 148, article 110761, 2023. </li>
 
