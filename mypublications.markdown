@@ -50,7 +50,7 @@ permalink: /mypublications/
  
 <li> Amir Afshari, Masoud Davari*, Mehdi Karrari, Weinan Gao*, and Frede Blaabjerg. A Multivariable, Adaptive, Robust, Primary Control Enforcing Predetermined Dynamics of Interest in Islanded Microgrids Based on Grid-Forming Inverter-Based Resources, IEEE Transactions on Automation Science and Engineering, in press, 2023. doi: 10.1109/TASE.2023.3262852. </li>
  
-<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Linna Zhou, and Xiaomin Liu. Adpative Optimal Output Regulation of Interconnected Singularly Perturbed Systems With Application to Power Systems, IEEE Journal of Automatica Sinica, vol. 11, no. 3, pp. 1–13, 2024. </li> 
+<li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Linna Zhou, and Xiaomin Liu. Adpative Optimal Output Regulation of Interconnected Singularly Perturbed Systems With Application to Power Systems, IEEE/CAA Journal of Automatica Sinica, vol. 11, no. 3, pp. 1–13, 2024. </li> 
  
 <li> Omar Qasem**, Masoud Davari, Weinan Gao*, Daniel Kirk and Tianyou Chai. Hybrid Iteration ADP Algorithm to Solve Cooperative, Optimal Output Regulation Problem for Continuous-Time, Linear, Multi-Agent Systems: Theory and Application in Islanded Modern Microgrids with IBRs, IEEE Transactions on Industrial Electronics, vol. 71, no. 1, pp. 834-845, 2024. doi: 10.1109/TIE.2023.3247734. </li>
 
@@ -161,7 +161,7 @@ permalink: /mypublications/
 # Conference Papers #
 <ol>
 
-<li> Adaptive Dynamic Programming and Decentralized Optimal Output Regulation of Two-Time-Scale Interconnected Systems, IEEE International Conference on Control, Automation and Information Sciences (ICCAIS), 2023, <strong>Best Paper Award.</strong>  </li> 
+<li> Jianguo Zhao, Chunyu Yang, Linna Zhou and Weinan Gao. Adaptive Dynamic Programming and Decentralized Optimal Output Regulation of Two-Time-Scale Interconnected Systems, IEEE International Conference on Control, Automation and Information Sciences (ICCAIS), 2023, <strong>Best Paper Award.</strong>  </li> 
  
 <li> Omar Qasem**, Weinan Gao and Hector Gutierrez. Adaptive Optimal Control for Discrete-Time Linear Systems via Hybrid Iteration, IEEE Data Driven Control and Learning Systems (DDCLS), 2023, <strong>Best Paper Award.</strong>  </li> 
 
