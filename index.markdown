@@ -9,8 +9,8 @@ layout: sitepage
 
 
 
-# English version of my Personal Website
-<strong> Please visit [Google Sites](https://sites.google.com/view/weinangao) for the English version of my Personal Website </strong>
+# English Personal Website
+<strong> Please visit [Google Sites](https://sites.google.com/view/weinangao) for my English Personal Website </strong>
 
 # News
 * 11/2023: 我和中国矿业大学杨春雨教授和赵建国博士合作的会议文章获得IEEE控制、自动化与信息科学会议最佳论文奖。
