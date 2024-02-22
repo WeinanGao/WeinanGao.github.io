@@ -56,4 +56,5 @@ permalink: /service/
 * IFAC TC 1.2 Adaptive and Learning Systems, 2020-Now, 委员
 * IFAC TC 2.3 Non-Linear Control Systems, 2020-Now, 委员
 * 中国人工智能学会工业人工智能专委会，2022-Now, 委员
+* 辽宁自动化学会会员， 2023-Now, 委员
 
