@@ -42,6 +42,12 @@ permalink: /service/
 * Session Chair, IEEE UEMCON, 2017
 * Technical Program Committee Member, IEEE Symposium Series on Computation Intelligence (SSCI), 2017, 2019
 
+# 学术会议主旨报告 #
+
+* International Artificial Intelligence and Blockchain Conference, 2024
+* International Conference on Smart Grid and Artificial Intelligence, 2024
+* International Conference on Information Technology and Intelligent Control, 2021
+
 
 # 学术委员会 #
 
