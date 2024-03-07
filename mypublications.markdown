@@ -32,6 +32,10 @@ permalink: /mypublications/
 
 <li> Yuchen Dong**, Weinan Gao* and Zhong-Ping Jiang. New Results in Coopeartive Adaptive Optimal Output Regulation, Journal of Systems Science & Complexity, in acceptance, 2024. </li>
 
+<li> Jun Chen, Lei Zhang and Weinan Gao, Reconfigurable Model Predictive Control for Large Scale Distributed Systems, IEEE Systems Journal, in press, 2024, doi: 10.1109/JSYST.2024.3366911. </li>
+
+<li> Hongliang Guo, Zhi He, Wenda Sheng, Zhiguang Cao, Yingjie Zhou and Weinan Gao, SEGAC: Sample Efficient Generalized Actor Critic for the Stochastic On-Time Arrival Problem, IEEE Transactions on Intelligent Transportation Systems,  in press, 2024, doi: 10.1109/TITS.2024.3361445. </li>
+
 <li> Masoud Davari, Weinan Gao*, Amir Aghazadeh, Frede Blaabjerg and Frank L. Lewis. An Optimal Synchronization Control Method of PLL Utilizing Adaptive Dynamic Programming to Synchronize Inverter-Based Resources With Unbalanced, Low-Inertia, and Very Weak Grids, IEEE Transactions on Automation Science and Engineering, in acceptance, 2023. </li>
 
 <li> Masoud Davari, Jianguo Zhao, Chunyu Yang, Weinan Gao* and Tianyou Chai. Reinforcement Learning to Stabilize Singularly Perturbed DC-Side Dynamics of Grid-Connected Voltage-Source Converters in Modern AC/DC Grids Using Singular Perturbation Theory and Adaptive Dynamics Programming, IEEE Transactions on Industrial Electronics, in acceptance, 2023. </li>
