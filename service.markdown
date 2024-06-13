@@ -44,9 +44,10 @@ permalink: /service/
 
 # 学术会议主旨报告 #
 
-* International Artificial Intelligence and Blockchain Conference, 2024
-* International Conference on Smart Grid and Artificial Intelligence, 2024
-* International Conference on Information Technology and Intelligent Control, 2021
+* International Artificial Intelligence and Blockchain Conference, Tokyo, Japan, 2024
+* International Conference on Smart Grid and Artificial Intelligence, Guangzhou, China, 2024
+* International Conference on Management Science and Engineering Management, Shenyang, China, 2024
+* International Conference on Information Technology and Intelligent Control, Online, 2021
 
 
 # 学术委员会 #
