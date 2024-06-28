@@ -36,7 +36,7 @@ permalink: /mypublications/
 
 <li> Hongliang Guo, Zhi He, Wenda Sheng, Zhiguang Cao, Yingjie Zhou and Weinan Gao, SEGAC: Sample Efficient Generalized Actor Critic for the Stochastic On-Time Arrival Problem, IEEE Transactions on Intelligent Transportation Systems, in press, 2024, doi: 10.1109/TITS.2024.3361445. </li>
 
-<li> Omar Qasem**, Weinan Gao*, Hector Gutierrez. Experimental Validation of Data-Driven Adaptive Optimal Control for Continuous-Time Systems via Hybrid Iteration: An Application to Rotary Inverted Pendulum, IEEE Transactions on Industrial Electronics, vol. 71, no. 6, 6210-6220, 2024. doi: 10.1109/TIE.2023.3292873. </li>
+<li> Omar Qasem**, Hector Gutierrez and Weinan Gao*. Experimental Validation of Data-Driven Adaptive Optimal Control for Continuous-Time Systems via Hybrid Iteration: An Application to Rotary Inverted Pendulum, IEEE Transactions on Industrial Electronics, vol. 71, no. 6, 6210-6220, 2024. doi: 10.1109/TIE.2023.3292873. </li>
 
 <li> Masoud Davari, Weinan Gao*, Amir Aghazadeh, Frede Blaabjerg and Frank L. Lewis. An Optimal Synchronization Control Method of PLL Utilizing Adaptive Dynamic Programming to Synchronize Inverter-Based Resources With Unbalanced, Low-Inertia, and Very Weak Grids, IEEE Transactions on Automation Science and Engineering, in press, 2024. </li>
 
