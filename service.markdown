@@ -44,6 +44,7 @@ permalink: /service/
 
 # 学术会议主旨报告 #
 
+* Chinese Process Control Conference, Sanya, China, 2024
 * International Artificial Intelligence and Blockchain Conference, Tokyo, Japan, 2024
 * International Conference on Smart Grid and Artificial Intelligence, Guangzhou, China, 2024
 * International Conference on Management Science and Engineering Management, Shenyang, China, 2024
