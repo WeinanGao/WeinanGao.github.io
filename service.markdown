@@ -46,6 +46,7 @@ permalink: /service/
 
 * Chinese Process Control Conference, Sanya, China, 2024
 * International Artificial Intelligence and Blockchain Conference, Tokyo, Japan, 2024
+* International Conference on Information Control, Electrical Engineering and Rail Transit, Changchun, China, 2024
 * International Conference on Smart Grid and Artificial Intelligence, Guangzhou, China, 2024
 * International Conference on Management Science and Engineering Management, Shenyang, China, 2024
 * International Conference on Information Technology and Intelligent Control, Online, 2021
