@@ -165,6 +165,8 @@ permalink: /mypublications/
 # Conference Papers #
 <ol>
 
+<li> Yuchenn Dong and Weinan Gao. Cooperative adaptive optimal output regulation of multi-agent systems with an application to connected and autonomous vehicles, IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 2024. </li>
+
 <li> Jianguo Zhao, Chunyu Yang, Linna Zhou and Weinan Gao. Adaptive Dynamic Programming and Decentralized Optimal Output Regulation of Two-Time-Scale Interconnected Systems, IEEE International Conference on Control, Automation and Information Sciences (ICCAIS), 2023, <strong>Best Paper Award.</strong>  </li> 
  
 <li> Omar Qasem**, Weinan Gao and Hector Gutierrez. Adaptive Optimal Control for Discrete-Time Linear Systems via Hybrid Iteration, IEEE Data Driven Control and Learning Systems (DDCLS), 2023, <strong>Best Paper Award.</strong>  </li> 
