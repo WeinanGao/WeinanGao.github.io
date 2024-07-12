@@ -10,12 +10,15 @@ permalink: /mypublications/
 </ol> 
 
 # Monograph #
-<ol> <li> Weinan Gao, and Zhong-Ping Jiang. Data-driven Nonlinear Adaptive Optimal Control of Connected Vehicles. Neural Information Processing, Lecture Notes in Computer Science series , Springer, 2017. </li>
+<ol> <li> Zhong-Ping Jiang, Tao Bian, and Weinan Gao.  Learning-Based Control: A Tutorial and Some Recent Results, Foundations and Trends in Systems and Control: vol. 8, no. 3, pp 176–284, 2020. doi: 10.1561/2600000023. </li>
 </ol>
 
 # Book Chapters #
-<ol> <li> Zhong-Ping Jiang, Tao Bian, and Weinan Gao.  Learning-Based Control: A Tutorial and Some Recent Results, Foundations and Trends in Systems and Control: vol. 8, no. 3, pp 176–284, 2020. doi: 10.1561/2600000023. </li>
+<ol> <li> Weinan Gao, and Zhong-Ping Jiang. Data-driven Nonlinear Adaptive Optimal Control of Connected Vehicles. Neural Information Processing, Lecture Notes in Computer Science series , Springer, 2017. </li>
 </ol>
+
+
+
 
 
 # Patents #
