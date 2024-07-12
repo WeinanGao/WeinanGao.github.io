@@ -9,7 +9,7 @@ permalink: /mypublications/
 <li> Weinan Gao. Data-driven Adaptive Optimal Tracking and its Applications to Intelligent Transportation Systems. New York University, 2017. </li>
 </ol> 
 
-# Monograph #
+# Monographs #
 <ol> <li> Zhong-Ping Jiang, Tao Bian, and Weinan Gao.  Learning-Based Control: A Tutorial and Some Recent Results, Foundations and Trends in Systems and Control: vol. 8, no. 3, pp 176–284, 2020. doi: 10.1561/2600000023. </li>
 </ol>
 
