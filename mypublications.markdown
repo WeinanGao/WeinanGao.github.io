@@ -171,7 +171,13 @@ permalink: /mypublications/
 # Conference Papers #
 <ol>
 
-<li> Yuchenn Dong and Weinan Gao. Cooperative adaptive optimal output regulation of multi-agent systems with an application to connected and autonomous vehicles, IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 2024. </li>
+<li> Weinan Gao, Tianyou Chai, Nairong Qiao and Yiheng Liu. String Stable Platooning Control based on Adaptive Dynamic Programming, CAA International Conference on Vehicular Control and Intelligence, 2024, <strong>Guo Konghui Paper Award.</strong> </li>
+
+<li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Bridging the Gap Between Reinforcement Learning and Nonlinear Output-Feedback Control, Chinese Control Conference, 2024. </li>
+
+<li> Yuchen Dong and Weinan Gao. Cooperative adaptive optimal output regulation of multi-agent systems with an application to connected and autonomous vehicles, IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 2024. </li>
+
+<li> Yuchen Dong and Weinan Gao. Cooperative adaptive optimal output regulation of multi-agent systems with an application to connected and autonomous vehicles, IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 2024. </li>
 
 <li> Jianguo Zhao, Chunyu Yang, Linna Zhou and Weinan Gao. Adaptive Dynamic Programming and Decentralized Optimal Output Regulation of Two-Time-Scale Interconnected Systems, IEEE International Conference on Control, Automation and Information Sciences (ICCAIS), 2023, <strong>Best Paper Award.</strong>  </li> 
  
