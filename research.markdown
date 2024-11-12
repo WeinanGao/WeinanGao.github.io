@@ -12,7 +12,6 @@ permalink: /research/
 * Frank Lewis, 美国德克萨斯大学阿灵顿分校
 * Kyriakos Vamvoudakis, 美国佐治亚理工学院
 * Timo Hämäläinen Timo, 芬兰于韦斯屈莱大学
-* Vladimir Stojanovic, 塞尔维亚克拉古耶夫卡克大学
 * Hamidreza Modares, 美国密歇根州立大学
 * Xiangnan Zhong, 美国佛罗里达大西洋大学
 * Ankush Chakrabarty, 美国三菱电气研究实验室
