@@ -25,6 +25,7 @@ permalink: /mypublications/
 # Journal Articles #
 <ol>
 
+<li> Fuyu Zhao, Sunxiaoyu Luo, Weinan Gao and Changyun Wen, Event-Triggered Cooperative Adaptive Optimal Output Regulation for Multiagent Systems Under Switching Network: An Adaptive Dynamic Programming Approach, IEEE Transactions on Systems, Man, and Cybernetics: Systems, in press, doi: 10.1109/TSMC.2024.3514202. </li>
 
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Incremental reinforcement learning and optimal output regulation under unmeasurable disturbances, Automatica, regular paper, vol. 160, article 111468, 2024. </li>
 
@@ -164,6 +165,14 @@ permalink: /mypublications/
 
 # Conference Papers #
 <ol>
+
+<li> Sayan Chakraborty, Weinan Gao, Kyriakos Vamvoudakis and Zhong-Ping Jiang. Resilient Learning-Based Control under Denial-Of-Service Attacks, Conference on Decision and Control, 2024. </li>
+
+<li> Omar Qasem, Weinan Gao, Kyriakos Vamvoudakis and Hector Gutierrez. Adaptive Optimal Control of Continuous-Time Nonlinear Systems Via Hybrid Iteration: An Adaptive Dynamic Programming Approach, Conference on Decision and Control, 2024. </li>
+
+<li> Weinan Gao, Tianyou Chai, Nairong Qiao and Yiheng Liu. String Stable Platooning Control based on Adaptive Dynamic Programming, CAA International Conference on Vehicular Control and Intelligence, 2024, <strong>Guo Konghui Paper Award.</strong> </li>
+
+<li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Bridging the Gap Between Reinforcement Learning and Nonlinear Output-Feedback Control, Chinese Control Conference, 2024. </li>
 
 <li> Yuchen Dong and Weinan Gao. Cooperative adaptive optimal output regulation of multi-agent systems with an application to connected and autonomous vehicles, IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 2024. </li>
 
