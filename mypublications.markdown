@@ -172,6 +172,8 @@ permalink: /mypublications/
 # Conference Papers #
 <ol>
 
+<li> Omar Qasem, Weinan Gao, Kyriakos Vamvoudakis and Hector Gutierrez. Adaptive Optimal Control of Continuous-Time Nonlinear Systems Via Hybrid Iteration: An Adaptive Dynamic Programming Approach, Conference on Decision and Control, 2024. </li>
+
 <li> Weinan Gao, Tianyou Chai, Nairong Qiao and Yiheng Liu. String Stable Platooning Control based on Adaptive Dynamic Programming, CAA International Conference on Vehicular Control and Intelligence, 2024, <strong>Guo Konghui Paper Award.</strong> </li>
 
 <li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Bridging the Gap Between Reinforcement Learning and Nonlinear Output-Feedback Control, Chinese Control Conference, 2024. </li>
