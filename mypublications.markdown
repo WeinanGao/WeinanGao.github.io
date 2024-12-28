@@ -172,6 +172,8 @@ permalink: /mypublications/
 # Conference Papers #
 <ol>
 
+<li> Sayan Chakraborty, Weinan Gao, Kyriakos Vamvoudakis and Zhong-Ping Jiang. Resilient Learning-Based Control under Denial-Of-Service Attacks, Conference on Decision and Control, 2024. </li>
+
 <li> Omar Qasem, Weinan Gao, Kyriakos Vamvoudakis and Hector Gutierrez. Adaptive Optimal Control of Continuous-Time Nonlinear Systems Via Hybrid Iteration: An Adaptive Dynamic Programming Approach, Conference on Decision and Control, 2024. </li>
 
 <li> Weinan Gao, Tianyou Chai, Nairong Qiao and Yiheng Liu. String Stable Platooning Control based on Adaptive Dynamic Programming, CAA International Conference on Vehicular Control and Intelligence, 2024, <strong>Guo Konghui Paper Award.</strong> </li>
