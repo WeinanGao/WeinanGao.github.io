@@ -9,16 +9,10 @@ permalink: /mypublications/
 <li> Weinan Gao. Data-driven Adaptive Optimal Tracking and its Applications to Intelligent Transportation Systems. New York University, 2017. </li>
 </ol> 
 
-# Monographs #
-<ol> <li> Zhong-Ping Jiang, Tao Bian, and Weinan Gao. Learning-Based Control: A Tutorial and Some Recent Results, Foundations and Trends in Systems and Control: vol. 8, no. 3, pp 176–284, 2020. doi: 10.1561/2600000023. </li>
-</ol>
-
 # Book Chapters #
-<ol> <li> Weinan Gao, and Zhong-Ping Jiang. Data-driven Nonlinear Adaptive Optimal Control of Connected Vehicles. Neural Information Processing, Lecture Notes in Computer Science series , Springer, 2017. </li> </li>
+<ol> <li> Weinan Gao, and Zhong-Ping Jiang. Data-driven Nonlinear Adaptive Optimal Control of Connected Vehicles. Neural Information Processing, Lecture Notes in Computer Science series , Springer, 2017. </li>
+<li> Zhong-Ping Jiang, Tao Bian, and Weinan Gao.  Learning-Based Control: A Tutorial and Some Recent Results, Foundations and Trends in Systems and Control: vol. 8, no. 3, pp 176–284, 2020. doi: 10.1561/2600000023. </li>
 </ol>
-
-
-
 
 
 # Patents #
@@ -31,7 +25,6 @@ permalink: /mypublications/
 # Journal Articles #
 <ol>
 
-<li> Fuyu Zhao, Sunxiaoyu Luo, Weinan Gao and Changyun Wen, Event-Triggered Cooperative Adaptive Optimal Output Regulation for Multiagent Systems Under Switching Network: An Adaptive Dynamic Programming Approach, IEEE Transactions on Systems, Man, and Cybernetics: Systems, in press, doi: 10.1109/TSMC.2024.3514202. </li>
 
 <li> Jianguo Zhao, Chunyu Yang, Weinan Gao, Ju H. Park. Incremental reinforcement learning and optimal output regulation under unmeasurable disturbances, Automatica, regular paper, vol. 160, article 111468, 2024. </li>
 
@@ -172,16 +165,6 @@ permalink: /mypublications/
 # Conference Papers #
 <ol>
 
-<li> Sayan Chakraborty, Weinan Gao, Kyriakos Vamvoudakis and Zhong-Ping Jiang. Resilient Learning-Based Control under Denial-Of-Service Attacks, Conference on Decision and Control, 2024. </li>
-
-<li> Omar Qasem, Weinan Gao, Kyriakos Vamvoudakis and Hector Gutierrez. Adaptive Optimal Control of Continuous-Time Nonlinear Systems Via Hybrid Iteration: An Adaptive Dynamic Programming Approach, Conference on Decision and Control, 2024. </li>
-
-<li> Weinan Gao, Tianyou Chai, Nairong Qiao and Yiheng Liu. String Stable Platooning Control based on Adaptive Dynamic Programming, CAA International Conference on Vehicular Control and Intelligence, 2024, <strong>Guo Konghui Paper Award.</strong> </li>
-
-<li> Weinan Gao, Zhong-Ping Jiang and Tianyou Chai. Bridging the Gap Between Reinforcement Learning and Nonlinear Output-Feedback Control, Chinese Control Conference, 2024. </li>
-
-<li> Yuchen Dong and Weinan Gao. Cooperative adaptive optimal output regulation of multi-agent systems with an application to connected and autonomous vehicles, IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 2024. </li>
-
 <li> Yuchen Dong and Weinan Gao. Cooperative adaptive optimal output regulation of multi-agent systems with an application to connected and autonomous vehicles, IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 2024. </li>
 
 <li> Jianguo Zhao, Chunyu Yang, Linna Zhou and Weinan Gao. Adaptive Dynamic Programming and Decentralized Optimal Output Regulation of Two-Time-Scale Interconnected Systems, IEEE International Conference on Control, Automation and Information Sciences (ICCAIS), 2023, <strong>Best Paper Award.</strong>  </li> 
@@ -262,4 +245,3 @@ permalink: /mypublications/
 
 <li> Zheng Fang, Weinan Gao, Adaptive integral backstepping control of a Micro-Quadrotor. International Conference on Intelligent Control and Information Processing (ICICIP), 2011. </li>
 </ol>  
-
